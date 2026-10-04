@@ -1,0 +1,1501 @@
+access_id,user_id,user_type,department,resource_id,resource_title,resource_type,publisher,publication_year,access_datetime,session_minutes,device,downloaded,rating,access_mode
+A00001,U1675,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-19 23:30:00,33.6,Laptop,0,4.0,Remote
+A00002,U1448,Undergraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-26 14:18:00,26.9,Laptop,1,4.0,Remote
+A00003,U1015,Faculty,Civil,R023,Finance Vol.2,Journal,Pearson,2005,2025-01-27 07:54:00,60.3,Campus PC,0,5.0,Remote
+A00004,U1124,Undergraduate,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-12-16 12:39:00,42.0,Laptop,1,2.0,On-Campus
+A00005,U1298,Postgraduate,Sciences,R056,Signal Processing Vol.5,Journal,Wiley,2021,2025-09-20 11:53:00,8.0,Laptop,0,4.0,Remote
+A00006,U1026,Faculty,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-26 01:14:00,12.1,Campus PC,1,2.0,Remote
+A00007,U1117,Postgraduate,CSE,R055,Data Science Vol.1,E-Book,Springer,2016,2025-10-23 08:50:00,37.2,Laptop,1,5.0,On-Campus
+A00008,U1554,Undergraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-09 14:19:00,10.5,,1,4.0,Remote
+A00009,U1099,Faculty, cse ,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-07-04 12:27:00,27.8,Mobile,0,3.0,Remote
+A00010,U1116,POSTGRADUATE,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-06-04 10:51:00,,Laptop,1,2.0,Remote
+A00011,U1353,Postgraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-25 18:21:00,34.1,Laptop,0,5.0,On-Campus
+A00012,U1063,Faculty,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-16 13:15:00,9.2,Mobile,0,3.0,On-Campus
+A00013,U1178,Postgraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-11-09 20:54:00,12.7,Laptop,0,3.0,Remote
+A00014,U1656,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-10 11:57:00,34.8,Mobile,0,2.0,On-Campus
+A00015,U1442,Faculty,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-08 16:18:00,79.2,Mobile,0,4.0,Remote
+A00016,U1674,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-23 10:18:00,23.9,Laptop,0,3.0,Remote
+A00017,U1247,Faculty,CSE,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-03-18 15:13:00,45.2,Mobile,0,5.0,On-Campus
+A00018,U1431,Undergraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-12-25 09:01:00,34.3,Laptop,0,4.0,Remote
+A00019,U1166,Undergraduate,Mechanical,R009,JSTOR Vol.1,Database,IEEE,2014,2025-11-09 09:33:00,15.9,Laptop,0,1.0,On-Campus
+A00020,U1265,Undergraduate,CSE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-11-14 17:15:00,45.5,Mobile,1,4.0,Remote
+A00021,U1122,Undergraduate,Sciences,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-04-04 11:50:00,6.3,Mobile,1,3.0,Remote
+A00022,U1583,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-28 10:10:00,43.4,Laptop,1,1.0,On-Campus
+A00023,U1128,Undergraduate,ece,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,invalid,35.7,Mobile,1,4.0,On-Campus
+A00024,U1143,Postgraduate,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-16 05:30:00,999.0,Laptop,0,3.0,On-Campus
+A00025,U1324,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-02-12 16:36:00,999.0,Laptop,0,5.0,On-Campus
+A00026,U1300,Researcher,CSE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-08 16:06:00,18.2,Laptop,0,4.0,Remote
+A00027,U1219,Undergraduate,Sciences,R028,Materials Vol.5,Journal,IEEE,2008,2025-12-27 11:27:00,15.0,Laptop,0,3.0,On-Campus
+A00028,U1249,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-14 14:37:00,21.3,Campus PC,0,5.0,On-Campus
+A00029,U1206,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-19 08:20:00,19.6,Mobile,1,4.0,On-Campus
+A00030,U1638,Postgraduate,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-10-02 18:52:00,17.1,Campus PC,0,3.0,Remote
+A00031,U1406,Researcher,Mechanical,R006,Programming Vol.3,E-Book,NPTEL,2006,2025-08-08 10:31:00,6.0,Campus PC,1,4.0,Remote
+A00032,U1643,Researcher,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-10-23 10:21:00,,Laptop,0,,On-Campus
+A00033,U1690,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-09-03 12:01:00,50.0,Mobile,1,4.0,On-Campus
+A00034,U1455,Undergraduate,Civil,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-11-03 21:10:00,17.5,Mobile,0,4.0,On-Campus
+A00035,U1577,Undergraduate,Civil,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-09-23 20:28:00,-5.0,Campus PC,1,4.0,On-Campus
+A00036,U1077,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-07-09 22:24:00,18.9,Mobile,0,3.0,On-Campus
+A00037,U1664,Postgraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-09-08 17:52:00,61.1,Campus PC,0,3.0,Remote
+A00038,U1337,Undergraduate,Sciences,R046,Programming Vol.5,E-Book,Wiley,2015,2025-06-16 17:47:00,14.8,Laptop,0,4.0,On-Campus
+A00039,U1499,Postgraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-06 15:09:00,14.0,Laptop,0,,On-Campus
+A00040,U1171,Faculty,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-02 21:35:00,36.2,Laptop,0,5.0,Remote
+A00041,U1066,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-03-01 15:27:00,29.2,Mobile,0,2.0,Remote
+A00042,U1619,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-10-03 13:06:00,36.9,Laptop,0,4.0,On-Campus
+A00043,U1314,Undergraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-05 17:39:00,35.4,Campus PC,1,1.0,On-Campus
+A00044,U1096,Undergraduate,Civil,R023,Finance Vol.2,Journal,Pearson,2005,2025-03-20 16:32:00,46.2,Mobile,0,3.0,Remote
+A00045,U1460,Undergraduate,Management,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-09 09:05:00,9.0,Campus PC,0,4.0,On-Campus
+A00046,U1038,Postgraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-03 13:28:00,34.0,Campus PC,1,3.0,Remote
+A00047,U1315,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-01 12:43:00,14.0,Mobile,0,5.0,Remote
+A00048,U1493,Postgraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-09-14 20:19:00,,Laptop,1,4.0,Remote
+A00049,U1504,Faculty, cse ,R048,Materials Vol.5,Journal,Springer,2017,2025-10-24 13:21:00,35.2,Mobile,0,4.0,On-Campus
+A00050,U1317,Researcher,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-10 20:06:00,33.9,Laptop,0,5.0,On-Campus
+A00051,U1258,Postgraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-02 14:12:00,25.4,Campus PC,0,4.0,Remote
+A00052,U1586,Undergraduate,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-07 19:58:00,,Campus PC,0,5.0,On-Campus
+A00053,U1129,Undergraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-14 09:37:00,14.1,Campus PC,0,5.0,On-Campus
+A00054,U1052,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-06 21:10:00,39.0,Mobile,1,,On-Campus
+A00055,U1109,Researcher,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-28 15:28:00,23.0,Laptop,0,3.0,On-Campus
+A00056,U1560,Researcher,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-04-22 11:11:00,24.2,Mobile,1,3.0,Remote
+A00057,U1328,Undergraduate,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-10 11:26:00,5.1,Campus PC,0,5.0,Remote
+A00058,U1026,Undergraduate,Civil,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-27 11:08:00,47.0,Mobile,0,2.0,Remote
+A00059,U1118,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-10 13:37:00,33.1,Mobile,1,5.0,On-Campus
+A00060,U1019,Undergraduate,CSE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-04 18:34:00,38.0,Mobile,1,3.0,Remote
+A00061,U1570,Researcher,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-27 22:38:00,,Mobile,0,5.0,Remote
+A00062,U1322,Undergraduate,Civil,R014,SpringerLink Vol.3,Database,Springer,2022,2025-08-27 18:26:00,30.6,Mobile,0,3.0,On-Campus
+A00063,U1047,Undergraduate,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-02-09 16:17:00,22.9,,0,5.0,Remote
+A00064,U1154,Undergraduate,Mechanical,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-09-17 14:14:00,34.2,Campus PC,0,1.0,On-Campus
+A00065,U1431,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-05 20:12:00,29.7,Laptop,1,4.0,On-Campus
+A00066,U1415,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-09-18 20:25:00,68.4,Mobile,0,5.0,Remote
+A00067,U1573,Faculty,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-02-20 12:27:00,55.8,Laptop,0,3.0,On-Campus
+A00068,U1018,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-06-20 22:40:00,21.2,Laptop,0,3.0,On-Campus
+A00069,U1048,Postgraduate,Mechanical,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-05-16 13:03:00,,Laptop,0,5.0,Remote
+A00070,U1024,Undergraduate,CSE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-20 20:16:00,19.9,Mobile,0,5.0,On-Campus
+A00071,U1275,Undergraduate,CSE,R043,Structural Design Vol.1,E-Book,,2007,2025-03-16 22:51:00,46.0,Laptop,0,2.0,On-Campus
+A00072,U1509,Undergraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-06-23 18:54:00,23.6,Laptop,0,4.0,On-Campus
+A00073,U1464,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-06 09:55:00,18.0,Mobile,1,,Remote
+A00074,U1147,Undergraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-03-14 16:18:00,30.3,Laptop,1,3.0,Remote
+A00075,U1460,Undergraduate,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-12 08:08:00,53.2,Laptop,0,4.0,On-Campus
+A00076,U1459,Faculty,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-15 19:11:00,48.2,Laptop,0,2.0,Remote
+A00077,U1133,Postgraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-04 11:07:00,18.8,Laptop,1,4.0,On-Campus
+A00078,U1524,Researcher,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-07-10 18:57:00,64.8,Laptop,1,3.0,On-Campus
+A00079,U1295,Undergraduate,Management,R033,Chemistry Vol.1,Journal,IEEE,2007,2025-07-27 21:53:00,13.2,Laptop,1,5.0,On-Campus
+A00080,U1041,Postgraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-08-03 10:48:00,16.5,Mobile,0,4.0,On-Campus
+A00081,U1273,Postgraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-18 13:43:00,44.8,Mobile,0,3.0,On-Campus
+A00082,U1538,Undergraduate,Civil,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-07-19 17:20:00,4.4,Laptop,1,5.0,Remote
+A00083,U1487,Undergraduate,Mechanical,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-14 14:28:00,26.2,Mobile,0,5.0,Remote
+A00433,U1515,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-09 17:48:00,32.9,Campus PC,0,4.0,On-Campus
+A00085,U1529,Postgraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-01 03:48:00,67.1,Mobile,0,5.0,Remote
+A00086,U1272,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-08 14:31:00,11.4,Laptop,0,3.0,On-Campus
+A00087,U1322,Undergraduate,Sciences,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-07-03 17:50:00,12.5,Laptop,0,3.0,On-Campus
+A00088,U1060,Researcher,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-07-03 16:20:00,72.6,Laptop,0,4.0,On-Campus
+A00089,U1697,Undergraduate,ece,R062,Programming Vol.4,E-Book,IEEE,2018,2025-11-05 09:24:00,21.3,Laptop,0,,On-Campus
+A00090,U1587,Researcher,Management,R028,Materials Vol.5,Journal,IEEE,2008,2025-07-06 14:50:00,52.0,Laptop,0,4.0,Remote
+A00091,U1136,Faculty,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-24 13:22:00,,Campus PC,0,4.0,On-Campus
+A00092,U1392,Faculty,ECE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-12-18 11:45:00,16.0,Laptop,1,5.0,On-Campus
+A00093,U1546,Postgraduate,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-06-01 19:27:00,53.5,,0,3.0,On-Campus
+A00094,U1353,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-18 12:17:00,83.3,Mobile,0,3.0,Remote
+A00095,U1147,Postgraduate,ECE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-03-04 16:13:00,56.1,,0,4.0,On-Campus
+A00096,U1677,Postgraduate,Sciences,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-02-12 21:36:00,18.1,Laptop,0,3.0,Remote
+A00097,U1188,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-02 16:28:00,25.4,Laptop,0,5.0,On-Campus
+A00098,U1234,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-06-03 17:22:00,12.9,Laptop,0,5.0,On-Campus
+A00099,U1260,Undergraduate,CSE,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-10-04 07:44:00,14.6,Campus PC,1,5.0,On-Campus
+A00100,U1623,Undergraduate,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-13 10:00:00,14.1,Campus PC,0,5.0,Remote
+A00101,U1350,Undergraduate,CSE,R016,Webinar Vol.2,Video,NPTEL,2011,2025-01-13 08:05:00,19.3,Laptop,1,,Remote
+A00102,U1503,Postgraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-08-10 19:57:00,28.2,Campus PC,0,3.0,On-Campus
+A00103,U1630,Faculty,Civil,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-18 20:39:00,26.1,Campus PC,0,4.0,On-Campus
+A00104,U1649,Postgraduate,CSE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-11-21 10:32:00,,Mobile,0,5.0,On-Campus
+A00105,U1599,Postgraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-21 10:00:00,29.2,Laptop,0,3.0,On-Campus
+A00106,U1635,Undergraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-09-17 12:35:00,38.4,Mobile,1,1.0,On-Campus
+A00107,U1663,Undergraduate,Sciences,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-04-16 16:26:00,42.3,Mobile,1,4.0,On-Campus
+A01283,U1614,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-15 20:19:00,189.9,Mobile,1,3.0,On-Campus
+A00109,U1450,Undergraduate,Sciences,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-05-07 18:02:00,23.3,Laptop,0,4.0,Remote
+A00110,U1092,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-14 21:33:00,135.1,Mobile,1,1.0,Remote
+A00111,U1079,Undergraduate,Civil,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-03-01 12:34:00,-5.0,Mobile,0,4.0,Remote
+A00112,U1557,Undergraduate, cse ,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-28 17:17:00,39.8,Mobile,0,4.0,Remote
+A00113,U1221,Postgraduate,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-07-11 16:03:00,9.5,Laptop,0,5.0,Remote
+A00114,U1563,Undergraduate,Management,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-10-22 12:58:00,43.0,Campus PC,0,,On-Campus
+A00115,U1654,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-10-27 21:42:00,15.2,Campus PC,1,1.0,On-Campus
+A00116,U1451,Undergraduate,Civil,R048,Materials Vol.5,Journal,Springer,2017,2025-12-14 08:37:00,26.7,Laptop,0,5.0,On-Campus
+A00117,U1535,Postgraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-25 18:46:00,8.2,Mobile,1,5.0,Remote
+A00118,U1195,Postgraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-14 19:40:00,25.0,Campus PC,0,4.0,On-Campus
+A00119,U1304,Undergraduate,Management,R044,Finance Vol.1,Journal,IEEE,2024,2025-04-04 21:08:00,25.3,Mobile,0,5.0,On-Campus
+A00120,U1675,Undergraduate,Civil,R055,Data Science Vol.1,E-Book,Springer,2016,2025-04-01 15:27:00,22.7,Campus PC,0,5.0,On-Campus
+A00121,U1571,Researcher,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-04 12:53:00,,Laptop,1,3.0,Remote
+A00122,U1143,Postgraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-12-27 20:17:00,50.8,Laptop,0,4.0,On-Campus
+A00123,U1655,Postgraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-12-14 19:58:00,12.4,Mobile,1,,Remote
+A00124,U1349,Undergraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-09 15:03:00,23.1,Mobile,0,4.0,On-Campus
+A00125,U1590,Faculty,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-13 19:19:00,8.7,Laptop,0,5.0,Remote
+A00126,U1365,Faculty,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-08 11:21:00,5.5,Laptop,1,4.0,On-Campus
+A00127,U1422,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-11-25 16:37:00,28.9,Campus PC,1,3.0,Remote
+A00128,U1113,Postgraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-28 20:10:00,11.7,Laptop,0,5.0,On-Campus
+A00129,U1237,Undergraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-03 12:13:00,25.9,Laptop,1,5.0,On-Campus
+A00130,U1505,Postgraduate,Management,R071,JSTOR Vol.3,Database,Wiley,2009,2025-10-21 15:39:00,29.7,Mobile,0,3.0,Remote
+A00131,U1589,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-10 22:17:00,6.5,Laptop,0,5.0,Remote
+A00132,U1062,Undergraduate,CSE,R026,Physics Vol.2,E-Book,Wiley,2018,2025-06-02 20:52:00,32.7,Mobile,1,3.0,Remote
+A00133,U1053,Researcher,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-12-26 21:52:00,49.3,Laptop,1,4.0,Remote
+A00134,U1485,Faculty, cse ,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-12-02 13:18:00,37.5,Laptop,0,4.0,On-Campus
+A00135,U1312,Undergraduate,Sciences,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-06 23:33:00,12.6,Campus PC,1,5.0,On-Campus
+A00136,U1594,Researcher,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-01 09:19:00,24.9,Laptop,0,3.0,On-Campus
+A00137,U1047,Undergraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-04-14 15:20:00,26.7,Mobile,1,3.0,Remote
+A00138,U1244,Undergraduate,ECE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-04-17 15:40:00,23.4,Campus PC,1,4.0,Remote
+A00139,U1024,Faculty,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-09 20:17:00,9.1,Laptop,1,,Remote
+A00140,U1496,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-03 21:08:00,14.2,Laptop,1,,Remote
+A00141,U1600,Undergraduate,Sciences,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-07-04 19:15:00,22.0,Laptop,1,3.0,Remote
+A00142,U1109,Postgraduate,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-27 17:55:00,29.4,,0,5.0,On-Campus
+A00143,U1226,Undergraduate,Mechanical,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-05-23 14:15:00,17.2,Mobile,0,5.0,On-Campus
+A00144,U1592,Undergraduate,ECE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-10-27 15:21:00,5.0,Laptop,0,3.0,On-Campus
+A00145,U1029,Undergraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-04-15 15:37:00,17.9,Laptop,1,4.0,Remote
+A00146,U1666,Postgraduate,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-16 02:06:00,68.3,Mobile,0,,On-Campus
+A00147,U1620,Undergraduate,ECE,R066,Thermodynamics Vol.3,E-Book,McGraw Hill,2023,2025-02-23 15:16:00,-5.0,Campus PC,1,4.0,Remote
+A00148,U1106,Undergraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-03-18 20:10:00,28.9,Laptop,0,4.0,Remote
+A00149,U1097,Postgraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-13 18:55:00,14.1,Mobile,1,5.0,On-Campus
+A00150,U1484,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-09 20:55:00,18.5,Mobile,0,2.0,Remote
+A00151,U1007,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-14 13:45:00,4.6,Campus PC,1,5.0,On-Campus
+A00152,U1354,Postgraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-02 16:14:00,999.0,Laptop,1,2.0,Remote
+A00153,U1046,Postgraduate,Management,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-08-06 04:36:00,31.8,Mobile,0,5.0,On-Campus
+A00154,U1372,Undergraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-21 13:39:00,29.0,Mobile,0,1.0,On-Campus
+A00155,U1245,Faculty,Sciences,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-04-25 15:52:00,16.0,Mobile,0,2.0,On-Campus
+A00156,U1494,Postgraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-03-03 11:09:00,23.4,Mobile,1,3.0,On-Campus
+A00157,U1616,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-03 04:44:00,26.1,Laptop,1,3.0,Remote
+A00158,U1342,Postgraduate,Management,R032,Signal Processing Vol.2,Journal,McGraw Hill,2018,2025-04-03 18:11:00,16.6,Mobile,0,4.0,Remote
+A00159,U1449,Postgraduate,ECE,R042,Finance Vol.1,Journal,Springer,2015,2025-02-23 14:34:00,34.0,Mobile,0,4.0,Remote
+A00160,U1420,Postgraduate,Management,R041,AI Vol.4,Journal,McGraw Hill,2006,2025-01-09 14:52:00,28.7,Mobile,0,5.0,On-Campus
+A00161,U1689,Postgraduate,Mechanical,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-08-10 11:03:00,19.0,Laptop,0,4.0,Remote
+A00162,U1161,Postgraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-01 16:08:00,9.6,Laptop,1,4.0,On-Campus
+A00163,U1167,Researcher,Management,R068,PhD Thesis Vol.3,Thesis,,2008,2025-10-28 14:48:00,18.1,Laptop,0,3.0,On-Campus
+A00164,U1264,Postgraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-03-13 15:01:00,17.2,Laptop,1,5.0,Remote
+A00165,U1515,Faculty,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-23 16:41:00,16.0,Campus PC,1,2.0,Remote
+A00166,U1605,Postgraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-20 00:30:00,6.7,Laptop,1,3.0,Remote
+A00099,U1260,Undergraduate,CSE,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-10-04 07:44:00,14.6,Campus PC,1,5.0,On-Campus
+A00168,U1076,Researcher,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-23 07:51:00,55.8,Laptop,0,,On-Campus
+A00169,U1426,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-16 14:50:00,22.8,Mobile,1,4.0,On-Campus
+A00170,U1418,Undergraduate,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-11-17 10:19:00,29.3,Campus PC,1,2.0,On-Campus
+A00171,U1262,Postgraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-01-06 16:00:00,33.7,Laptop,1,2.0,On-Campus
+A00172,U1129,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-24 11:07:00,23.0,Laptop,0,5.0,On-Campus
+A00173,U1594,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-27 20:06:00,30.7,Mobile,0,2.0,On-Campus
+A00174,U1592,Postgraduate,CSE,R071,JSTOR Vol.3,Database,Wiley,2009,2025-08-12 14:58:00,36.7,Laptop,1,4.0,On-Campus
+A00175,U1523,Researcher,Civil,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-03-03 17:35:00,28.0,Campus PC,1,4.0,On-Campus
+A00176,U1405,Undergraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-03-24 11:40:00,999.0,Mobile,0,5.0,Remote
+A00177,U1182,Postgraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-09-25 02:13:00,,Mobile,1,5.0,On-Campus
+A00178,U1282,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,invalid,24.8,Mobile,0,2.0,On-Campus
+A00179,U1047,Undergraduate,CSE,R020,AI Vol.1,Journal,Springer,2007,2025-08-17 16:43:00,107.8,Laptop,0,5.0,Remote
+A00417,U1006,Researcher,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-08 21:40:00,30.3,Campus PC,1,4.0,On-Campus
+A00181,U1315,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-07-02 22:28:00,28.4,Laptop,0,3.0,On-Campus
+A00182,U1305,Undergraduate,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-27 18:41:00,12.4,Campus PC,0,4.0,On-Campus
+A00183,U1056,Postgraduate,CSE,R001,JSTOR Vol.3,Database,Wiley,2023,2025-07-14 23:32:00,25.7,Laptop,0,5.0,Remote
+A00184,U1670,Postgraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-08 12:23:00,45.0,Laptop,0,3.0,Remote
+A00185,U1187,Undergraduate,ECE,R056,Signal Processing Vol.5,Journal,Wiley,2021,2025-03-20 19:35:00,39.3,Mobile,0,4.0,On-Campus
+A00186,U1356,Undergraduate,Civil,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-01-01 16:19:00,5.4,Mobile,0,3.0,On-Campus
+A00187,U1325,Undergraduate,ece,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-03 17:57:00,7.0,Laptop,0,4.0,On-Campus
+A00188,U1328,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-07 23:43:00,7.3,Mobile,1,5.0,On-Campus
+A00189,U1591,Researcher,Civil,R006,Programming Vol.3,E-Book,NPTEL,2006,2025-01-13 17:44:00,,Mobile,0,4.0,On-Campus
+A00190,U1522,Undergraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-06-11 21:43:00,7.3,Campus PC,0,5.0,Remote
+A00191,U1607,Undergraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-06 19:26:00,12.0,Laptop,0,3.0,On-Campus
+A00192,U1265,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-10 09:57:00,22.5,Mobile,1,5.0,On-Campus
+A00193,U1185,Postgraduate, cse ,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-10-10 18:12:00,49.6,Laptop,1,5.0,Remote
+A00194,U1299,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-15 15:34:00,35.1,Laptop,1,4.0,On-Campus
+A00195,U1393,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-09-16 21:04:00,20.7,Campus PC,1,2.0,Remote
+A00196,U1235,Undergraduate,Mechanical,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-02-25 20:17:00,41.6,Laptop,0,3.0,On-Campus
+A00197,U1322,Undergraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-23 08:34:00,80.4,Mobile,1,2.0,On-Campus
+A00198,U1105,Undergraduate,Mechanical,R046,Programming Vol.5,E-Book,Wiley,2015,2025-08-09 09:29:00,25.8,Mobile,0,4.0,On-Campus
+A00199,U1408,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-26 07:56:00,9.2,Mobile,1,5.0,Remote
+A00200,U1499,Postgraduate,Civil,R062,Programming Vol.4,E-Book,IEEE,2018,2025-01-15 15:36:00,12.3,Laptop,1,4.0,Remote
+A00201,U1369,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-06 07:24:00,12.3,Laptop,1,3.0,Remote
+A00202,U1611,Undergraduate, cse ,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-06-10 18:25:00,14.5,Laptop,0,,On-Campus
+A00203,U1696,Postgraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-05-21 16:36:00,19.7,Laptop,0,4.0,Remote
+A00204,U1633,Undergraduate,CSE,R020,AI Vol.1,Journal,Springer,2007,2025-03-24 20:47:00,30.0,Mobile,0,4.0,On-Campus
+A00205,U1065,Postgraduate,Mechanical,R026,Physics Vol.2,E-Book,Wiley,2018,2025-10-11 11:16:00,8.0,Mobile,0,3.0,Remote
+A00206,U1616,Researcher,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-11-05 15:35:00,9.3,Mobile,1,5.0,On-Campus
+A00207,U1233,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-03-06 08:34:00,36.5,Laptop,1,2.0,Remote
+A00208,U1316,Faculty,Mechanical,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-11-03 21:00:00,17.3,Laptop,0,4.0,On-Campus
+A00209,U1288,Postgraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-01-20 10:54:00,13.3,Campus PC,1,4.0,On-Campus
+A00210,U1198,Postgraduate,CSE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-11-15 08:34:00,21.2,Mobile,0,2.0,Remote
+A00211,U1614,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-11-13 10:14:00,54.9,Laptop,0,4.0,On-Campus
+A00212,U1446,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-01-19 20:38:00,39.8,Mobile,0,4.0,On-Campus
+A00213,U1676,Undergraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-10-24 08:40:00,38.1,Laptop,0,4.0,Remote
+A00585,U1214,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-01 20:10:00,2.4,Laptop,0,2.0,Remote
+A00215,U1293,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-04 19:02:00,30.9,Laptop,1,4.0,On-Campus
+A00216,U1508,Undergraduate,Civil,R020,AI Vol.1,Journal,Springer,2007,2025-12-17 19:24:00,70.4,Mobile,1,3.0,Remote
+A00217,U1351,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-25 10:10:00,73.9,Mobile,0,5.0,Remote
+A00218,U1346,Undergraduate, cse ,R042,Finance Vol.1,Journal,Springer,2015,2025-02-22 07:34:00,8.2,Laptop,0,5.0,On-Campus
+A00219,U1517,Undergraduate,CSE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-10-10 14:30:00,6.4,Laptop,0,2.0,On-Campus
+A00220,U1482,Postgraduate,Mechanical,R062,Programming Vol.4,E-Book,IEEE,2018,2025-08-11 10:28:00,11.6,Laptop,0,5.0,On-Campus
+A00221,U1638,Undergraduate,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-08-25 18:58:00,51.6,Mobile,0,5.0,On-Campus
+A00222,U1540,Postgraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-05-01 13:31:00,21.5,Campus PC,0,2.0,Remote
+A00223,U1435,Postgraduate,Management,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-08-15 14:24:00,19.7,Mobile,1,4.0,Remote
+A00224,U1643,Postgraduate,CSE,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-03-04 08:04:00,42.3,Laptop,0,1.0,On-Campus
+A00225,U1071,Faculty,ECE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-26 16:17:00,16.6,Campus PC,1,4.0,On-Campus
+A00226,U1534,Undergraduate,ECE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-02-02 10:53:00,28.4,Laptop,0,5.0,Remote
+A00227,U1274,Postgraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-01 18:27:00,36.5,,0,4.0,On-Campus
+A00228,U1303,Postgraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-10 07:54:00,,Laptop,1,4.0,Remote
+A00229,U1547,Undergraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-07-06 22:31:00,10.3,Mobile,1,3.0,On-Campus
+A00230,U1191,Undergraduate,Civil,R046,Programming Vol.5,E-Book,Wiley,2015,2025-07-14 18:32:00,25.7,,1,4.0,On-Campus
+A00231,U1618,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-09 10:25:00,28.0,Laptop,1,5.0,Remote
+A00232,U1349,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-12-10 01:33:00,40.3,Laptop,0,3.0,Remote
+A00233,U1244,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-16 12:04:00,11.4,Campus PC,1,4.0,On-Campus
+A00234,U1229,Undergraduate,ECE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-04-16 09:03:00,14.8,Mobile,1,4.0,Remote
+A00235,U1294,Postgraduate,CSE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-03-27 10:28:00,73.4,Mobile,0,5.0,On-Campus
+A00236,U1659,Undergraduate,ece,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-03-14 21:35:00,46.2,Laptop,0,5.0,On-Campus
+A00237,U1071,UNDERGRADUATE,Civil,R040,JSTOR Vol.3,Database,IEEE,2018,2025-07-16 17:33:00,23.0,Laptop,0,4.0,On-Campus
+A00238,U1355,Undergraduate,ECE,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-11-19 10:25:00,50.9,Laptop,1,4.0,On-Campus
+A00239,U1584,Undergraduate,Sciences,R062,Programming Vol.4,E-Book,IEEE,2018,2025-09-05 16:17:00,11.4,Laptop,1,,Remote
+A00240,U1330,Researcher,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-19 11:42:00,21.2,Laptop,1,4.0,On-Campus
+A00241,U1396,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-25 22:36:00,27.8,Campus PC,0,4.0,On-Campus
+A00242,U1243,Undergraduate,CSE,R022,Scopus Vol.4,Database,Pearson,2016,2025-05-09 04:02:00,19.5,Laptop,0,4.0,On-Campus
+A00243,U1095,Undergraduate,ECE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-10-05 19:27:00,20.0,Mobile,0,5.0,Remote
+A00244,U1447,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-03-10 19:42:00,39.0,Mobile,0,3.0,Remote
+A00245,U1643,Postgraduate,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-08-08 07:47:00,46.6,Laptop,0,2.0,On-Campus
+A00246,U1364,Postgraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-17 10:17:00,18.1,Mobile,0,5.0,On-Campus
+A00247,U1302,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-04-25 13:55:00,8.6,Mobile,0,2.0,Remote
+A00248,U1090,Postgraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-17 21:39:00,7.2,Mobile,0,5.0,On-Campus
+A00249,U1661,Undergraduate,Civil,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-12-04 16:26:00,4.2,Laptop,1,4.0,Remote
+A00250,U1608,Faculty,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-09 17:37:00,66.1,Campus PC,0,5.0,On-Campus
+A00251,U1631,Postgraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-02-20 19:52:00,39.1,Laptop,0,4.0,Remote
+A00252,U1251,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-10 20:13:00,33.8,Mobile,0,5.0,On-Campus
+A00253,U1437,Postgraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-17 15:09:00,16.4,Laptop,1,5.0,On-Campus
+A00254,U1302,Faculty,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-02-20 15:26:00,16.3,Laptop,1,4.0,On-Campus
+A00255,U1164,Undergraduate,ece,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-07-10 18:05:00,47.6,Campus PC,0,4.0,On-Campus
+A00256,U1143,Researcher,Management,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-10-19 11:50:00,6.4,Laptop,1,1.0,On-Campus
+A00257,U1268,Faculty,Sciences,R040,JSTOR Vol.3,Database,IEEE,2018,2025-04-12 20:58:00,18.6,Laptop,1,3.0,Remote
+A00258,U1387,Undergraduate,ECE,R061,NPTEL Lecture Vol.5,Video,Elsevier,2015,2025-04-04 02:36:00,51.9,Campus PC,0,5.0,On-Campus
+A00259,U1085,Postgraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-11 10:58:00,18.6,Laptop,0,3.0,On-Campus
+A00260,U1491,Postgraduate,Management,R046,Programming Vol.5,E-Book,Wiley,2015,2025-07-13 20:04:00,37.8,Mobile,0,5.0,On-Campus
+A00261,U1320,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-01 12:37:00,23.6,Laptop,0,4.0,On-Campus
+A00262,U1616,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-25 09:26:00,1.7,Laptop,0,3.0,On-Campus
+A00263,U1195,Faculty,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-15 10:16:00,22.9,Laptop,0,5.0,On-Campus
+A00264,U1036,Postgraduate,Civil,R046,Programming Vol.5,E-Book,Wiley,2015,2025-09-02 16:18:00,26.1,Campus PC,0,1.0,Remote
+A00265,U1218,Undergraduate,CSE,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-02-25 20:32:00,21.7,Mobile,0,4.0,Remote
+A01245,U1259,Faculty,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-25 18:28:00,24.3,Campus PC,1,3.0,Remote
+A00267,U1225,Undergraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-07-01 04:09:00,21.9,Mobile,0,2.0,Remote
+A00268,U1492,Faculty,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-05 15:36:00,4.4,Mobile,0,3.0,On-Campus
+A00269,U1590,Postgraduate,Management,R044,Finance Vol.1,Journal,IEEE,2024,2025-03-11 22:55:00,18.5,Laptop,0,4.0,On-Campus
+A00270,U1199,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-15 11:00:00,39.8,Laptop,0,2.0,Remote
+A00271,U1449,Faculty,Management,R009,JSTOR Vol.1,Database,IEEE,2014,2025-01-21 22:52:00,63.8,Laptop,1,5.0,Remote
+A00272,U1143,Faculty,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-12 21:36:00,57.4,Mobile,0,4.0,On-Campus
+A00273,U1253,Undergraduate,Sciences,R006,Programming Vol.3,E-Book,NPTEL,2006,2025-03-18 11:20:00,11.2,Mobile,0,2.0,On-Campus
+A00274,U1207,Undergraduate,ECE,R028,Materials Vol.5,Journal,IEEE,2008,2025-06-01 20:44:00,7.4,Laptop,0,3.0,On-Campus
+A00275,U1470,Postgraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-05-19 18:37:00,27.8,Laptop,0,3.0,On-Campus
+A00276,U1613,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-07-26 15:46:00,25.0,Laptop,0,5.0,Remote
+A00277,U1176,Undergraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-15 14:04:00,,Laptop,0,4.0,On-Campus
+A00278,U1203,Postgraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-01-13 20:03:00,15.4,Campus PC,0,1.0,Remote
+A00279,U1574,Faculty,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,invalid,25.5,Laptop,1,4.0,Remote
+A00280,U1323,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,invalid,24.6,Laptop,0,4.0,On-Campus
+A01436,U1385,Postgraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-27 17:17:00,,Laptop,0,4.0,On-Campus
+A00282,U1494,Faculty,Civil,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-02-09 15:25:00,6.0,Laptop,0,,Remote
+A00283,U1096,Undergraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-01-04 20:43:00,39.4,Campus PC,1,1.0,On-Campus
+A00284,U1610,Undergraduate,Civil,R055,Data Science Vol.1,E-Book,Springer,2016,2025-04-25 20:10:00,28.0,Laptop,0,3.0,On-Campus
+A00285,U1255,Postgraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-06-14 10:58:00,,Laptop,1,4.0,Remote
+A00286,U1460,Postgraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-05-26 05:25:00,47.5,Laptop,0,,Remote
+A00287,U1302,Undergraduate,Sciences,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-10-19 14:09:00,23.1,Laptop,0,3.0,On-Campus
+A00288,U1527,Postgraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-16 20:04:00,39.6,Campus PC,0,,Remote
+A00289,U1428,Postgraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-15 11:51:00,64.8,Campus PC,1,4.0,Remote
+A00290,U1121,Postgraduate,CSE,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-08-06 18:06:00,77.7,Mobile,1,1.0,Remote
+A00291,U1131,Postgraduate,CSE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-16 00:25:00,30.3,Mobile,1,4.0,On-Campus
+A00292,U1614,Undergraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-07-20 13:40:00,31.8,Laptop,0,4.0,On-Campus
+A00293,U1363,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-28 17:30:00,29.9,Laptop,1,3.0,Remote
+A00294,U1193,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-05-16 09:15:00,999.0,Campus PC,0,4.0,On-Campus
+A00295,U1100,Researcher,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-02-27 21:06:00,46.3,Mobile,0,,On-Campus
+A00296,U1089,Faculty,Mechanical,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-10-27 09:42:00,29.5,Campus PC,0,4.0,On-Campus
+A00297,U1643,Postgraduate,CSE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-11-15 21:29:00,75.0,Laptop,1,3.0,On-Campus
+A00298,U1683,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-01-13 10:02:00,68.6,Mobile,0,4.0,Remote
+A00299,U1275,Postgraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-08-04 23:10:00,26.1,Mobile,0,4.0,On-Campus
+A00300,U1141,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-08 17:33:00,25.9,Laptop,0,1.0,Remote
+A00301,U1293,Undergraduate,CSE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-25 08:10:00,17.9,Mobile,0,4.0,On-Campus
+A00302,U1095,Undergraduate,ECE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-10-04 07:23:00,36.5,Laptop,0,5.0,Remote
+A00303,U1384,Faculty,ece,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-12 07:07:00,20.1,Laptop,1,5.0,On-Campus
+A00304,U1438,Undergraduate,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-11-20 16:47:00,17.3,Laptop,0,3.0,On-Campus
+A00305,U1689,Postgraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-12-07 20:37:00,36.0,Mobile,0,3.0,Remote
+A00306,U1223,Researcher,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-01-28 14:47:00,10.7,Campus PC,0,3.0,Remote
+A00307,U1138,Postgraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-06-19 14:03:00,46.8,Laptop,0,5.0,On-Campus
+A00308,U1093,Undergraduate,ECE,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-08-01 16:22:00,36.9,Laptop,0,4.0,On-Campus
+A00309,U1264,Faculty,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-07 16:16:00,66.4,Laptop,0,3.0,On-Campus
+A00310,U1420,Postgraduate,ECE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-04-21 18:37:00,30.6,Laptop,0,,Remote
+A00311,U1046,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-12-25 15:49:00,40.6,Campus PC,0,1.0,On-Campus
+A00312,U1531,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-01-26 18:13:00,2.7,Laptop,1,,Remote
+A00313,U1322,Faculty,Civil,R020,AI Vol.1,Journal,Springer,2007,2025-06-24 23:46:00,44.1,Laptop,0,,On-Campus
+A00314,U1555,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-03 13:34:00,54.6,Mobile,0,4.0,Remote
+A00315,U1324,Undergraduate,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-21 01:49:00,28.4,Mobile,1,5.0,On-Campus
+A00316,U1108,Undergraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-07-04 09:04:00,17.8,Laptop,0,3.0,On-Campus
+A00317,U1015,Undergraduate,Mechanical,R029,Programming Vol.1,E-Book,Taylor & Francis,2020,invalid,31.1,Mobile,1,4.0,Remote
+A00318,U1389,Postgraduate,Mechanical,R044,Finance Vol.1,Journal,IEEE,2024,2025-07-20 13:26:00,46.7,Laptop,1,4.0,On-Campus
+A00319,U1377,Undergraduate,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-02-14 22:16:00,50.7,Campus PC,1,3.0,Remote
+A00320,U1569,Undergraduate, cse ,R044,Finance Vol.1,Journal,IEEE,2024,2025-01-19 17:10:00,6.1,Laptop,0,5.0,On-Campus
+A00321,U1614,Undergraduate,ECE,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-11-24 15:59:00,118.2,Mobile,1,5.0,On-Campus
+A00322,U1112,Undergraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-02 20:53:00,-5.0,Laptop,0,5.0,Remote
+A00323,U1220,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-15 11:07:00,41.1,Mobile,0,5.0,Remote
+A00324,U1145,Postgraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-24 20:26:00,58.5,Laptop,1,3.0,On-Campus
+A00325,U1074,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-05-13 00:44:00,24.4,Laptop,0,4.0,On-Campus
+A00326,U1001,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-11-15 17:35:00,51.9,Laptop,1,4.0,On-Campus
+A00327,U1057,Faculty,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-14 22:11:00,6.0,Laptop,0,1.0,Remote
+A00328,U1367,Researcher,CSE,R007,Tutorial Vol.4,Video,Springer,2020,2025-12-26 19:21:00,53.1,Laptop,0,4.0,On-Campus
+A00329,U1106,Undergraduate,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-04-02 20:22:00,49.1,Mobile,0,3.0,On-Campus
+A00330,U1136,Undergraduate,Mechanical,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-07-25 14:17:00,33.7,Mobile,1,1.0,On-Campus
+A00331,U1082,Undergraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-10-23 20:57:00,46.8,Laptop,0,5.0,Remote
+A00332,U1506,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-23 16:12:00,69.7,Campus PC,1,3.0,Remote
+A00333,U1444,Undergraduate,CSE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-04-12 17:42:00,59.6,Mobile,0,4.0,Remote
+A00334,U1673,Researcher,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-15 06:54:00,25.4,Mobile,1,5.0,On-Campus
+A00335,U1078,Postgraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-11 10:47:00,30.9,Mobile,0,4.0,On-Campus
+A00336,U1146,Undergraduate,Mechanical,R046,Programming Vol.5,E-Book,Wiley,2015,2025-08-08 16:47:00,22.5,Laptop,1,3.0,On-Campus
+A00337,U1318,Researcher,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-12-25 06:09:00,20.5,Mobile,0,4.0,Remote
+A00338,U1454,Undergraduate,Civil,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-15 19:07:00,43.9,Laptop,0,5.0,On-Campus
+A00339,U1091,Undergraduate, cse ,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-21 20:46:00,22.3,Mobile,1,5.0,Remote
+A00340,U1148,Undergraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-03 21:44:00,43.8,Laptop,0,3.0,On-Campus
+A00341,U1295,Undergraduate,ECE,R044,Finance Vol.1,Journal,IEEE,2024,2025-05-23 08:44:00,24.4,Mobile,0,1.0,Remote
+A00342,U1012,Faculty,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-03-19 22:25:00,26.9,Laptop,1,4.0,On-Campus
+A00343,U1276,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-28 07:31:00,14.0,Mobile,1,3.0,On-Campus
+A00344,U1530,Postgraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-04 15:00:00,43.1,Laptop,1,5.0,Remote
+A00345,U1368,Undergraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-16 20:17:00,5.7,Campus PC,1,4.0,Remote
+A00346,U1303,Faculty,Sciences,R062,Programming Vol.4,E-Book,IEEE,2018,2025-04-15 07:31:00,54.4,Mobile,1,5.0,On-Campus
+A00347,U1341,Postgraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-04-16 02:07:00,-5.0,Campus PC,0,5.0,Remote
+A00348,U1662,Undergraduate,Sciences,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-02 03:07:00,27.6,Mobile,0,4.0,Remote
+A00349,U1364,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-09-14 15:02:00,26.7,,1,5.0,On-Campus
+A00350,U1374,Faculty,CSE,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-07-09 20:12:00,7.6,Laptop,1,4.0,On-Campus
+A00351,U1651,Undergraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-04-18 09:59:00,18.2,Mobile,0,3.0,Remote
+A00352,U1110,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-10-07 09:41:00,47.1,Laptop,0,5.0,Remote
+A00353,U1067,Faculty,Mechanical,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-08-13 16:56:00,51.4,Mobile,0,4.0,On-Campus
+A00354,U1314,Undergraduate,Mechanical,R055,Data Science Vol.1,E-Book,Springer,2016,2025-03-18 11:15:00,30.0,Laptop,1,5.0,On-Campus
+A00355,U1223,Undergraduate,Mechanical,R001,JSTOR Vol.3,Database,Wiley,2023,2025-11-02 19:35:00,45.4,Laptop,0,3.0,Remote
+A00356,U1142,Undergraduate,Management,R027,Construction Vol.4,Journal,NPTEL,2018,2025-04-23 22:53:00,14.2,Campus PC,1,3.0,On-Campus
+A00357,U1083,Undergraduate,ECE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-21 19:21:00,34.7,Mobile,1,5.0,Remote
+A00358,U1614,Undergraduate,Civil,R062,Programming Vol.4,E-Book,IEEE,2018,2025-07-02 21:39:00,63.1,Campus PC,0,2.0,Remote
+A00359,U1430,Undergraduate,ECE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-02-02 15:41:00,39.1,Mobile,0,4.0,On-Campus
+A00360,U1483,Undergraduate,Sciences,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-03-24 20:49:00,69.1,Laptop,0,4.0,On-Campus
+A00361,U1082,UNDERGRADUATE,CSE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-10-08 10:58:00,70.4,Mobile,0,3.0,On-Campus
+A00362,U1238,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-02-25 07:36:00,36.1,Mobile,0,3.0,On-Campus
+A00363,U1434,Researcher,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-14 17:34:00,0.7,Mobile,0,5.0,Remote
+A00364,U1369,Postgraduate,Mechanical,R066,Thermodynamics Vol.3,E-Book,McGraw Hill,2023,2025-11-10 06:52:00,50.7,Laptop,1,1.0,Remote
+A00365,U1486,Undergraduate,Civil,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-08-08 21:41:00,9.9,Mobile,0,5.0,Remote
+A00366,U1468,Undergraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-09-19 18:21:00,2.0,Laptop,0,5.0,On-Campus
+A00367,U1289,Postgraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-04 22:37:00,4.9,Campus PC,0,4.0,Remote
+A00368,U1548,Undergraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-12-12 12:32:00,53.0,Mobile,1,4.0,On-Campus
+A00369,U1181,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-10 15:13:00,36.3,Mobile,0,1.0,Remote
+A00370,U1056,Postgraduate,CSE,R041,AI Vol.4,Journal,McGraw Hill,2006,2025-03-05 19:30:00,,Mobile,0,5.0,On-Campus
+A00371,U1639,Undergraduate,Mechanical,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-07-10 11:37:00,38.6,Mobile,1,2.0,On-Campus
+A00372,U1015,Postgraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-15 16:54:00,5.2,Laptop,0,3.0,On-Campus
+A00373,U1198,Faculty,CSE,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-03-19 17:34:00,22.4,Laptop,0,5.0,On-Campus
+A00374,U1080,Faculty,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-03 23:09:00,16.1,Mobile,0,3.0,Remote
+A00375,U1162,Undergraduate,ECE,R028,Materials Vol.5,Journal,IEEE,2008,2025-01-25 19:59:00,,Mobile,1,3.0,On-Campus
+A00376,U1276,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-11-25 08:34:00,29.6,Laptop,1,5.0,On-Campus
+A00377,U1090,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-20 15:17:00,37.6,Mobile,0,2.0,Remote
+A00378,U1326,Postgraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-26 16:45:00,41.3,Laptop,1,3.0,On-Campus
+A00379,U1649,Faculty,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-12 09:23:00,5.5,Campus PC,1,4.0,On-Campus
+A00380,U1095,Researcher,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-03-24 14:22:00,22.7,Mobile,1,5.0,On-Campus
+A00381,U1648,Undergraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-21 11:50:00,26.4,Laptop,1,5.0,On-Campus
+A00382,U1287,Faculty,CSE,R044,Finance Vol.1,Journal,IEEE,2024,2025-01-16 08:52:00,9.6,Campus PC,1,5.0,Remote
+A00383,U1414,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-06 15:31:00,,Laptop,0,5.0,On-Campus
+A00384,U1309,Faculty,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-03-16 09:22:00,4.9,Laptop,0,1.0,On-Campus
+A00385,U1221,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-26 16:51:00,7.7,Laptop,1,4.0,On-Campus
+A00386,U1076,Undergraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-05-28 09:10:00,45.2,Laptop,0,2.0,Remote
+A00387,U1415,Undergraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-13 18:44:00,6.4,Laptop,0,5.0,Remote
+A00388,U1641,Researcher,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-04-07 10:35:00,7.5,,1,5.0,On-Campus
+A00389,U1364,Undergraduate,Mechanical,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-02-21 21:51:00,28.1,Laptop,1,3.0,Remote
+A00390,U1419,Undergraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-01-03 03:25:00,34.6,Laptop,1,5.0,On-Campus
+A00391,U1450,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-05 15:49:00,25.8,Laptop,1,4.0,On-Campus
+A00392,U1271,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-16 12:00:00,11.3,Campus PC,0,2.0,Remote
+A00393,U1084,Researcher,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-12-28 10:45:00,8.9,Mobile,1,4.0,Remote
+A00394,U1354,Undergraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-11-10 15:04:00,27.6,Mobile,1,5.0,On-Campus
+A00395,U1608,Undergraduate,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-07-13 20:38:00,23.9,Mobile,0,3.0,Remote
+A00396,U1219,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-08-10 21:11:00,19.7,Mobile,0,1.0,Remote
+A00397,U1610,Undergraduate,CSE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-04-13 12:57:00,44.0,Laptop,1,5.0,Remote
+A00398,U1598,Undergraduate,CSE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-10-01 09:46:00,22.8,Mobile,0,4.0,Remote
+A00399,U1171,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-17 18:06:00,999.0,Laptop,0,4.0,On-Campus
+A00400,U1402,UNDERGRADUATE,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-17 16:53:00,19.8,Laptop,0,5.0,Remote
+A00401,U1523,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-11-09 10:15:00,37.2,Mobile,0,4.0,On-Campus
+A00402,U1346,Undergraduate,Civil,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-06-08 19:32:00,21.8,Mobile,0,,On-Campus
+A00403,U1489,Undergraduate,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-10-22 15:05:00,-5.0,Laptop,1,2.0,On-Campus
+A00404,U1637,Postgraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-06 17:06:00,41.6,Laptop,0,,Remote
+A00405,U1439,Faculty,ECE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-04-02 13:14:00,22.8,Laptop,1,4.0,On-Campus
+A00406,U1586,Faculty,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-02 14:32:00,-5.0,Mobile,0,4.0,On-Campus
+A00407,U1560,Undergraduate,Management,R001,JSTOR Vol.3,Database,Wiley,2023,2025-02-25 10:32:00,20.8,Mobile,0,5.0,Remote
+A00408,U1568,Undergraduate,CSE,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-12-11 19:51:00,37.3,Mobile,0,1.0,On-Campus
+A00409,U1596,Researcher,CSE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-10-03 09:09:00,20.4,Mobile,1,5.0,On-Campus
+A00410,U1157,Postgraduate,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-02-25 19:44:00,34.9,Campus PC,1,5.0,On-Campus
+A00411,U1012,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-05 20:00:00,30.0,Mobile,0,,Remote
+A00412,U1107,Undergraduate,Mechanical,R071,JSTOR Vol.3,Database,Wiley,2009,2025-01-10 19:17:00,4.9,Mobile,1,3.0,On-Campus
+A00413,U1174,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-10-01 02:10:00,36.2,Campus PC,0,3.0,On-Campus
+A00414,U1483,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-20 11:07:00,28.1,Laptop,0,4.0,On-Campus
+A00415,U1356,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-20 15:35:00,55.7,Laptop,1,5.0,Remote
+A00416,U1328,Undergraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-22 16:54:00,10.0,Laptop,0,5.0,Remote
+A00417,U1006,Researcher,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-08 21:40:00,30.3,Campus PC,1,4.0,On-Campus
+A00418,U1478,Postgraduate,CSE,R033,Chemistry Vol.1,Journal,IEEE,2007,2025-04-10 13:51:00,18.3,Mobile,0,4.0,Remote
+A00419,U1254,Postgraduate,ECE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-05-27 21:35:00,5.4,Mobile,1,3.0,Remote
+A00420,U1532,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-24 09:03:00,3.9,Campus PC,0,4.0,Remote
+A00421,U1078,Postgraduate,Mechanical,R027,Construction Vol.4,Journal,NPTEL,2018,2025-06-02 13:20:00,62.8,Laptop,0,5.0,On-Campus
+A00422,U1206,Postgraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-20 06:49:00,30.4,Campus PC,0,5.0,On-Campus
+A00423,U1038,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-05-23 19:02:00,22.3,Mobile,1,3.0,Remote
+A00424,U1199,Postgraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-05-16 09:05:00,7.0,Campus PC,0,5.0,On-Campus
+A00425,U1646,Postgraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-11-18 11:50:00,60.5,Mobile,0,2.0,On-Campus
+A00426,U1343,Faculty,ECE,R066,Thermodynamics Vol.3,E-Book,McGraw Hill,2023,2025-04-01 19:03:00,14.9,Laptop,0,4.0,On-Campus
+A00427,U1307,Undergraduate,Management,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-11-01 16:57:00,31.3,Campus PC,0,4.0,On-Campus
+A00428,U1191,Faculty,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-01 01:45:00,27.4,Mobile,0,4.0,Remote
+A00429,U1185,Undergraduate,Mechanical,R032,Signal Processing Vol.2,Journal,McGraw Hill,2018,2025-04-05 00:39:00,78.3,Mobile,1,5.0,On-Campus
+A00430,U1467,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-07-28 15:32:00,25.3,Laptop,0,4.0,Remote
+A00431,U1689,Undergraduate,CSE,R016,Webinar Vol.2,Video,NPTEL,2011,2025-05-18 12:05:00,17.5,Campus PC,0,2.0,Remote
+A00432,U1522,Undergraduate,Mechanical,R053,Data Science Vol.4,E-Book,,2020,2025-04-22 10:24:00,30.7,Mobile,0,3.0,On-Campus
+A00433,U1515,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-09 17:48:00,32.9,Campus PC,0,4.0,On-Campus
+A00434,U1330,Undergraduate,CSE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-03-27 10:54:00,111.9,Mobile,0,4.0,On-Campus
+A00435,U1069,Postgraduate,Civil,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-04-06 16:26:00,25.0,Laptop,0,4.0,On-Campus
+A00436,U1506,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-26 13:50:00,9.7,Mobile,0,4.0,Remote
+A00437,U1566,Researcher,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-05-01 10:46:00,19.7,Campus PC,1,2.0,Remote
+A00957,U1367,Researcher,Management,R022,Scopus Vol.4,Database,,2016,2025-10-23 16:20:00,47.9,Mobile,0,5.0,Remote
+A00439,U1064,Postgraduate,ECE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-04-03 11:37:00,34.4,Laptop,1,4.0,Remote
+A00440,U1499,Researcher,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-12-23 03:36:00,6.4,,0,4.0,On-Campus
+A00441,U1644,Faculty,Civil,R009,JSTOR Vol.1,Database,IEEE,2014,2025-10-08 12:32:00,18.0,Campus PC,1,4.0,Remote
+A00442,U1157,POSTGRADUATE,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-12-13 21:46:00,75.5,Laptop,1,3.0,On-Campus
+A00443,U1111,Postgraduate,Mechanical,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-10-14 20:53:00,12.7,Mobile,0,3.0,On-Campus
+A00444,U1517,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-03-23 13:33:00,44.6,Mobile,0,2.0,On-Campus
+A00445,U1232,Undergraduate,Mechanical,R062,Programming Vol.4,E-Book,IEEE,2018,2025-07-10 16:19:00,20.2,Laptop,0,5.0,On-Campus
+A00446,U1500,Undergraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-03-01 16:58:00,26.0,Laptop,1,3.0,Remote
+A00447,U1492,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-11 20:57:00,7.2,Campus PC,0,3.0,Remote
+A00448,U1186,Undergraduate,Management,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-08-09 11:41:00,21.7,Laptop,0,5.0,On-Campus
+A00449,U1029,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-21 12:38:00,30.4,Laptop,0,4.0,On-Campus
+A00450,U1389,Faculty,CSE,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-11-22 12:06:00,25.2,Laptop,0,,On-Campus
+A00451,U1285,Faculty,Management,R028,Materials Vol.5,Journal,IEEE,2008,2025-02-03 05:24:00,,Laptop,0,4.0,Remote
+A00452,U1598,Faculty,CSE,R071,JSTOR Vol.3,Database,Wiley,2009,2025-08-23 12:11:00,37.4,Mobile,0,3.0,On-Campus
+A00453,U1250,Postgraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-02 21:30:00,8.9,Mobile,1,1.0,On-Campus
+A00454,U1174,Undergraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-01-18 21:49:00,31.3,Mobile,1,5.0,On-Campus
+A00455,U1602,Undergraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-11 08:13:00,3.6,Laptop,0,,Remote
+A00456,U1515,Postgraduate,CSE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-10-09 15:59:00,52.6,Mobile,0,5.0,Remote
+A00457,U1432,Postgraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-02-14 13:07:00,-5.0,Laptop,1,5.0,On-Campus
+A00458,U1667,UNDERGRADUATE,Civil,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-07-09 15:05:00,42.7,Mobile,1,1.0,On-Campus
+A00459,U1548,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-23 16:58:00,1.3,Laptop,1,4.0,On-Campus
+A00460,U1606,Undergraduate,CSE,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-09-28 02:06:00,38.9,Mobile,1,2.0,Remote
+A00461,U1559,Undergraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-02-23 20:44:00,14.5,Laptop,0,4.0,On-Campus
+A00462,U1281,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-13 22:45:00,26.1,Mobile,1,5.0,Remote
+A00463,U1043,Undergraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-15 17:19:00,39.3,Mobile,0,2.0,Remote
+A00464,U1425,Postgraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-13 17:03:00,24.5,,0,5.0,On-Campus
+A00465,U1535,Researcher,Sciences,R028,Materials Vol.5,Journal,IEEE,2008,2025-04-23 16:18:00,36.4,Laptop,0,4.0,On-Campus
+A00466,U1694,Undergraduate, cse ,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-08-16 12:04:00,20.4,Laptop,0,4.0,On-Campus
+A00467,U1477,Postgraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-09-14 09:40:00,55.2,Mobile,0,1.0,On-Campus
+A00468,U1397,Faculty,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-06-12 16:53:00,,Laptop,0,4.0,Remote
+A00469,U1403,Undergraduate,Management,R040,JSTOR Vol.3,Database,IEEE,2018,2025-03-11 06:59:00,23.5,Laptop,1,4.0,Remote
+A00470,U1080,Postgraduate,Civil,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-02-16 20:48:00,-5.0,Laptop,0,3.0,On-Campus
+A00471,U1005,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-12-20 14:46:00,25.6,Laptop,0,4.0,Remote
+A00472,U1031,Postgraduate,Sciences,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-06-13 14:52:00,9.3,Mobile,0,1.0,On-Campus
+A00473,U1633,Undergraduate,Sciences,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-11-23 12:46:00,12.4,Laptop,0,5.0,On-Campus
+A00474,U1553,Faculty,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-07-24 22:39:00,46.8,Laptop,0,3.0,Remote
+A00475,U1182,Researcher,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-11-13 10:59:00,42.7,Laptop,0,,On-Campus
+A00476,U1296,Undergraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-02-26 09:19:00,41.0,Mobile,0,5.0,On-Campus
+A00477,U1338,Undergraduate,CSE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-02-05 09:24:00,34.3,Laptop,1,5.0,Remote
+A00478,U1172,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-27 17:54:00,17.7,Mobile,0,5.0,On-Campus
+A00479,U1295,Postgraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-11-09 23:18:00,16.4,Laptop,0,5.0,Remote
+A00480,U1243,Postgraduate,Mechanical,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-04-16 11:17:00,24.9,Mobile,1,3.0,On-Campus
+A00481,U1486,Undergraduate,CSE,R046,Programming Vol.5,E-Book,Wiley,2015,2025-04-08 21:09:00,51.4,Mobile,0,4.0,On-Campus
+A00482,U1530,Faculty,ECE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-06-13 11:16:00,29.2,Laptop,1,4.0,Remote
+A00483,U1068,UNDERGRADUATE,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-05-10 17:35:00,11.9,Campus PC,0,1.0,On-Campus
+A00484,U1325,Undergraduate,Civil,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-03-20 05:53:00,7.7,Mobile,0,5.0,On-Campus
+A00485,U1693,Undergraduate,ece,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-03 15:08:00,43.6,Laptop,0,1.0,On-Campus
+A00486,U1607,Undergraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-24 17:40:00,61.5,Laptop,0,5.0,On-Campus
+A00487,U1555,Undergraduate,Management,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-26 16:45:00,,Campus PC,1,5.0,On-Campus
+A00488,U1514,Undergraduate,Mechanical,R008,AI Vol.5,Journal,Wiley,2023,2025-02-16 11:53:00,44.5,,0,4.0,On-Campus
+A00489,U1003,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-01-16 20:45:00,33.7,Mobile,0,4.0,On-Campus
+A00490,U1681,Faculty, cse ,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-09-20 22:09:00,14.1,Mobile,0,5.0,On-Campus
+A00491,U1514,Undergraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-06 15:29:00,29.5,Laptop,1,5.0,Remote
+A00492,U1621,Faculty,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-09-21 17:57:00,10.4,Mobile,0,5.0,Remote
+A00493,U1636,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-07 19:54:00,21.9,Campus PC,0,5.0,On-Campus
+A00494,U1178,Postgraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-19 11:36:00,25.8,Campus PC,1,1.0,Remote
+A00495,U1009,Undergraduate,Management,R008,AI Vol.5,Journal,Wiley,2023,2025-10-09 20:57:00,54.9,Campus PC,0,2.0,Remote
+A00496,U1461,Postgraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-11-21 11:40:00,21.2,,0,3.0,Remote
+A00497,U1321,Undergraduate,CSE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,invalid,15.3,Laptop,0,4.0,Remote
+A00498,U1014,Undergraduate,Management,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-04-06 08:54:00,32.1,Laptop,0,4.0,On-Campus
+A00818,U1641,Undergraduate,ECE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-07 16:31:00,73.9,Laptop,0,5.0,Remote
+A00500,U1693,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-14 16:22:00,14.9,Mobile,0,5.0,Remote
+A00501,U1254,Researcher,Mechanical,R001,JSTOR Vol.3,Database,Wiley,2023,2025-04-09 16:14:00,11.5,Mobile,1,2.0,On-Campus
+A00502,U1182,Researcher,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-17 20:43:00,12.3,Laptop,0,5.0,Remote
+A00503,U1458,Postgraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-28 23:01:00,55.0,Campus PC,0,4.0,Remote
+A00504,U1465,Undergraduate,Civil,R001,JSTOR Vol.3,Database,Wiley,2023,2025-04-01 08:38:00,36.0,Campus PC,1,,On-Campus
+A00505,U1232,Faculty,Management,R046,Programming Vol.5,E-Book,Wiley,2015,2025-05-27 11:51:00,,Mobile,0,1.0,On-Campus
+A00506,U1594,Postgraduate,ECE,R044,Finance Vol.1,Journal,IEEE,2024,2025-03-24 13:47:00,49.4,Laptop,0,5.0,Remote
+A00507,U1406,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-15 15:18:00,14.8,Mobile,0,5.0,On-Campus
+A00508,U1112,Undergraduate,Management,R040,JSTOR Vol.3,Database,IEEE,2018,2025-09-18 15:53:00,24.2,Mobile,0,3.0,Remote
+A00509,U1227,Postgraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-05-11 20:21:00,10.2,Mobile,1,,Remote
+A00510,U1593,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-04 19:40:00,48.1,Laptop,0,4.0,On-Campus
+A00511,U1062,Undergraduate,Management,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-08-17 02:30:00,13.9,Laptop,0,4.0,On-Campus
+A00512,U1008,Postgraduate,Mechanical,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-10-23 14:04:00,14.2,Campus PC,0,,On-Campus
+A00513,U1459,Undergraduate,Management,R023,Finance Vol.2,Journal,Pearson,2005,2025-05-07 17:00:00,,Campus PC,0,4.0,Remote
+A00514,U1309,Undergraduate,Management,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-08-21 15:10:00,3.2,Mobile,0,5.0,On-Campus
+A00515,U1176,Undergraduate,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-12-21 09:56:00,,Laptop,1,5.0,On-Campus
+A00516,U1330,Postgraduate,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-07-22 14:57:00,40.2,Mobile,0,2.0,On-Campus
+A00517,U1128,Researcher,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-10 14:24:00,12.2,Laptop,0,5.0,On-Campus
+A00518,U1261,Faculty,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-11 10:58:00,93.8,Laptop,0,3.0,On-Campus
+A00519,U1163,Postgraduate,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-01-12 19:02:00,28.5,Mobile,0,5.0,On-Campus
+A00520,U1410,Postgraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-05-24 12:58:00,5.7,Mobile,0,4.0,Remote
+A00521,U1471,Postgraduate,Civil,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-09-26 16:13:00,2.1,Mobile,0,1.0,On-Campus
+A00522,U1640,Undergraduate,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-12-12 15:02:00,63.4,Mobile,0,5.0,Remote
+A00523,U1047,Undergraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-06-28 21:45:00,28.5,Campus PC,0,3.0,Remote
+A00739,U1213,Postgraduate,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-04-08 17:56:00,27.3,Mobile,0,5.0,On-Campus
+A00525,U1185,Postgraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-11 08:17:00,28.4,Laptop,0,5.0,Remote
+A00526,U1405,Undergraduate,Management,R001,JSTOR Vol.3,Database,Wiley,2023,2025-02-01 12:45:00,-5.0,Campus PC,0,4.0,On-Campus
+A00527,U1373,Faculty,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-10-18 14:19:00,24.8,Laptop,0,4.0,On-Campus
+A00528,U1614,Postgraduate,Management,R003,JSTOR Vol.4,Database,Pearson,2007,2025-07-19 12:45:00,12.9,Laptop,0,4.0,On-Campus
+A00529,U1643,Undergraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-28 19:11:00,23.7,Campus PC,0,4.0,On-Campus
+A00530,U1541,Undergraduate,CSE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-10-21 11:05:00,18.1,Mobile,0,2.0,On-Campus
+A00531,U1139,Undergraduate,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-01 08:19:00,27.4,Mobile,0,5.0,On-Campus
+A00532,U1028,Undergraduate,ECE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-08-16 14:36:00,20.2,Laptop,0,3.0,On-Campus
+A01306,U1044,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-15 16:05:00,29.3,Laptop,0,5.0,Remote
+A00534,U1659,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-14 20:08:00,11.8,Laptop,1,3.0,On-Campus
+A00535,U1175,Undergraduate,Mechanical,R001,JSTOR Vol.3,Database,Wiley,2023,2025-10-13 19:44:00,999.0,Mobile,1,5.0,On-Campus
+A00536,U1032,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-01-23 16:29:00,4.8,Laptop,1,5.0,On-Campus
+A00537,U1476,Postgraduate,CSE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-08-18 19:25:00,8.7,Laptop,0,3.0,On-Campus
+A00538,U1412,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-03-20 18:14:00,38.2,Campus PC,1,3.0,On-Campus
+A00539,U1622,Undergraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-13 11:01:00,11.2,Mobile,0,5.0,On-Campus
+A00540,U1402,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-08 16:03:00,15.2,Mobile,0,,On-Campus
+A00541,U1532,Undergraduate,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-05-15 19:40:00,15.3,Campus PC,1,5.0,Remote
+A01256,U1030,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-07-08 17:07:00,27.8,Campus PC,0,2.0,On-Campus
+A00543,U1006,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-04-17 17:14:00,34.1,Mobile,0,5.0,On-Campus
+A00544,U1103,Undergraduate,CSE,R055,Data Science Vol.1,E-Book,Springer,2016,2025-09-20 15:54:00,20.0,Mobile,1,,On-Campus
+A00545,U1546,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-03-04 15:20:00,,Laptop,0,5.0,Remote
+A00546,U1125,Researcher,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-02-28 08:44:00,8.8,Laptop,0,5.0,Remote
+A00547,U1144,Undergraduate,CSE,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-11-07 18:20:00,40.0,Laptop,0,4.0,Remote
+A00548,U1526,Faculty,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-10-28 21:55:00,58.8,Campus PC,0,5.0,On-Campus
+A00549,U1143,Undergraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-13 09:49:00,24.6,Mobile,1,4.0,On-Campus
+A00550,U1104,Undergraduate,Mechanical,R055,Data Science Vol.1,E-Book,Springer,2016,2025-04-26 13:28:00,10.6,Mobile,0,5.0,On-Campus
+A00551,U1009,Researcher,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-12-25 06:41:00,34.5,Laptop,0,4.0,Remote
+A00552,U1328,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-22 03:24:00,24.9,Campus PC,1,2.0,On-Campus
+A00553,U1445,Postgraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-26 23:56:00,,Mobile,1,4.0,Remote
+A00554,U1512,Researcher,Management,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-04-18 15:21:00,43.6,Laptop,1,1.0,On-Campus
+A00555,U1633,Postgraduate,Sciences,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-04-24 13:50:00,18.9,Mobile,1,4.0,Remote
+A00556,U1455,Undergraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-05 11:36:00,,Mobile,1,5.0,On-Campus
+A00557,U1529,Undergraduate,CSE,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-09-02 23:38:00,105.1,Campus PC,0,3.0,On-Campus
+A00558,U1147,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-01-16 11:21:00,34.8,Mobile,0,5.0,On-Campus
+A00559,U1238,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-01-23 19:49:00,48.5,Mobile,1,2.0,Remote
+A00560,U1212,Undergraduate,CSE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-09-22 11:44:00,42.0,Laptop,0,4.0,On-Campus
+A00561,U1045,Faculty,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-11-15 07:48:00,48.9,Laptop,0,5.0,On-Campus
+A00562,U1678,Postgraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-10-15 18:48:00,31.3,Laptop,0,4.0,Remote
+A00563,U1168,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-18 00:09:00,45.2,Laptop,0,5.0,Remote
+A00564,U1314,Undergraduate,Sciences,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-07-25 18:52:00,15.3,Mobile,0,5.0,Remote
+A00565,U1249,Postgraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-06-24 11:50:00,5.8,Laptop,1,4.0,Remote
+A00566,U1031,Faculty, cse ,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-04-04 19:14:00,12.4,Mobile,0,5.0,On-Campus
+A00567,U1632,Undergraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-07-17 19:58:00,22.4,Mobile,0,1.0,Remote
+A00568,U1153,Undergraduate,Management,R020,AI Vol.1,Journal,Springer,2007,2025-06-11 19:31:00,20.4,Laptop,0,4.0,On-Campus
+A00569,U1070,Faculty,CSE,R046,Programming Vol.5,E-Book,Wiley,2015,2025-08-23 03:19:00,25.0,Mobile,1,3.0,Remote
+A00570,U1239,Faculty,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-11-15 18:13:00,14.6,Campus PC,0,5.0,Remote
+A00571,U1100,Faculty,CSE,R001,JSTOR Vol.3,Database,Wiley,2023,2025-12-28 23:21:00,3.7,Campus PC,0,4.0,On-Campus
+A00572,U1699,Undergraduate,ECE,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-02-13 11:02:00,18.6,Campus PC,0,,On-Campus
+A00573,U1132,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-20 11:41:00,7.8,Mobile,0,5.0,Remote
+A00574,U1211,Undergraduate,Mechanical,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-04 20:42:00,24.2,Mobile,0,2.0,Remote
+A00575,U1189,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-04-27 09:40:00,32.3,Campus PC,0,,Remote
+A00576,U1018,Faculty,Management,R071,JSTOR Vol.3,Database,Wiley,2009,2025-04-05 17:32:00,18.3,Laptop,0,2.0,Remote
+A00577,U1009,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-11 19:21:00,10.0,Laptop,0,3.0,On-Campus
+A00578,U1359,Postgraduate,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-10-24 04:43:00,25.8,Campus PC,0,4.0,On-Campus
+A00579,U1162,Faculty,CSE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-07-28 16:52:00,108.6,Mobile,0,3.0,On-Campus
+A00580,U1058,Researcher,ECE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-11-14 16:05:00,34.8,Mobile,1,4.0,On-Campus
+A00581,U1203,Postgraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-01-14 12:22:00,36.5,Laptop,1,5.0,On-Campus
+A00582,U1191,Researcher,Civil,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-02-02 21:59:00,16.9,Laptop,0,5.0,Remote
+A00583,U1296,Undergraduate,Mechanical,R031,Thermodynamics Vol.4,E-Book,Wiley,2014,2025-05-28 09:51:00,13.2,Mobile,0,3.0,On-Campus
+A00584,U1694,Undergraduate,CSE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-01 13:59:00,48.9,Laptop,0,3.0,Remote
+A00585,U1214,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-01 20:10:00,2.4,Laptop,0,2.0,Remote
+A00416,U1328,Undergraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-22 16:54:00,10.0,Laptop,0,5.0,Remote
+A00587,U1537,Faculty,CSE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-03-01 20:07:00,67.1,Mobile,0,3.0,Remote
+A00588,U1035,Undergraduate, cse ,R023,Finance Vol.2,Journal,Pearson,2005,2025-03-05 07:51:00,23.2,Laptop,0,3.0,Remote
+A00589,U1350,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-18 15:31:00,6.5,Laptop,1,5.0,On-Campus
+A00590,U1314,Undergraduate,Management,R023,Finance Vol.2,Journal,Pearson,2005,2025-07-20 07:14:00,32.9,Campus PC,1,5.0,On-Campus
+A00591,U1355,Undergraduate,CSE,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-08-09 18:05:00,18.4,Mobile,1,5.0,On-Campus
+A00592,U1120,Faculty, cse ,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-05-23 19:44:00,,Campus PC,1,1.0,Remote
+A00593,U1325,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-18 20:48:00,29.0,,0,4.0,On-Campus
+A00594,U1086,POSTGRADUATE,Civil,R064,Programming Vol.5,E-Book,NPTEL,2010,invalid,26.1,Laptop,0,3.0,On-Campus
+A00595,U1662,Postgraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-05-20 18:58:00,25.1,Mobile,0,,Remote
+A00596,U1410,Undergraduate,Civil,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-17 19:48:00,34.5,Mobile,0,4.0,Remote
+A00597,U1024,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-23 15:47:00,9.5,Laptop,0,5.0,Remote
+A00598,U1353,Researcher,ECE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-05 21:48:00,30.9,Mobile,0,4.0,Remote
+A00599,U1648,Postgraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-07 17:59:00,27.4,Mobile,0,3.0,On-Campus
+A00600,U1520,Undergraduate,Management,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-02-09 21:27:00,48.3,Campus PC,1,4.0,On-Campus
+A00601,U1191,Undergraduate,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-03-10 11:45:00,14.1,Mobile,0,5.0,Remote
+A00602,U1624,Faculty, cse ,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-02-25 15:49:00,53.7,Campus PC,0,2.0,On-Campus
+A00603,U1129,Faculty,ECE,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-09-21 19:06:00,41.6,Laptop,1,5.0,On-Campus
+A00604,U1172,Faculty,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-16 10:41:00,22.6,Campus PC,1,3.0,Remote
+A00605,U1108,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-16 10:20:00,25.1,Mobile,0,3.0,On-Campus
+A00606,U1646,Faculty,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-25 23:07:00,-5.0,Laptop,0,5.0,On-Campus
+A00607,U1501,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-13 14:10:00,24.6,Laptop,1,1.0,On-Campus
+A00608,U1362,Postgraduate,Management,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-10-07 10:06:00,-5.0,Campus PC,0,5.0,Remote
+A00609,U1467,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-04 12:53:00,20.2,Mobile,0,2.0,On-Campus
+A00610,U1181,Postgraduate,Civil,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-01-10 14:46:00,48.2,Mobile,1,4.0,On-Campus
+A00611,U1049,Researcher,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-01-19 17:06:00,33.3,Campus PC,0,4.0,Remote
+A00612,U1592,Researcher,Civil,R020,AI Vol.1,Journal,Springer,2007,2025-10-14 21:37:00,79.7,Mobile,0,5.0,Remote
+A00613,U1674,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-12 23:39:00,14.9,Laptop,0,5.0,On-Campus
+A00614,U1024,Postgraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-14 17:31:00,37.4,Mobile,0,4.0,On-Campus
+A00615,U1036,Faculty,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-05-28 18:36:00,8.0,Mobile,0,,On-Campus
+A00616,U1391,Researcher,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-10-28 12:54:00,21.5,Laptop,0,3.0,On-Campus
+A00617,U1030,Postgraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-05 20:31:00,34.6,Laptop,0,4.0,On-Campus
+A00618,U1505,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-04 10:39:00,38.9,Laptop,0,4.0,On-Campus
+A00619,U1661,Undergraduate,ECE,R037,Thermodynamics Vol.5,E-Book,Springer,2014,2025-12-07 08:34:00,19.1,Laptop,1,2.0,On-Campus
+A00620,U1195,Faculty,Mechanical,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-03-24 22:23:00,51.5,Laptop,1,5.0,On-Campus
+A00621,U1206,Postgraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-13 20:53:00,58.6,Campus PC,0,3.0,On-Campus
+A00622,U1604,Postgraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-01-25 12:24:00,15.0,Mobile,1,1.0,Remote
+A00623,U1249,Postgraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-07-19 18:47:00,22.0,Mobile,0,5.0,On-Campus
+A00624,U1168,UNDERGRADUATE,ECE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-11-16 15:36:00,,Mobile,0,4.0,On-Campus
+A00625,U1058,Undergraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-08 12:41:00,16.9,Laptop,0,5.0,On-Campus
+A00626,U1587,Faculty,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-10 11:45:00,56.3,Mobile,1,3.0,Remote
+A00627,U1648,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-05 09:44:00,55.9,Laptop,0,4.0,On-Campus
+A00628,U1054,Postgraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-05-15 16:33:00,20.9,Laptop,0,,On-Campus
+A00629,U1562,Postgraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-04-08 14:36:00,37.2,Laptop,0,3.0,Remote
+A00630,U1111,Faculty,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-07-09 15:30:00,47.9,Campus PC,0,5.0,Remote
+A00631,U1097,Undergraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-06-02 10:20:00,,Laptop,0,3.0,Remote
+A00632,U1266,Postgraduate,Civil,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-04-23 22:43:00,,Laptop,0,3.0,On-Campus
+A00633,U1305,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-27 17:52:00,14.2,Mobile,1,1.0,On-Campus
+A00634,U1597,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-04-14 21:42:00,39.5,Laptop,0,3.0,On-Campus
+A00635,U1489,Undergraduate,CSE,R066,Thermodynamics Vol.3,E-Book,McGraw Hill,2023,2025-04-16 08:46:00,8.6,Mobile,0,3.0,On-Campus
+A00636,U1101,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-26 17:49:00,20.2,Campus PC,1,5.0,On-Campus
+A00637,U1408,Researcher,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-15 20:22:00,17.7,Laptop,1,4.0,On-Campus
+A00638,U1612,Faculty,Sciences,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-18 12:03:00,8.2,Mobile,1,3.0,On-Campus
+A00639,U1463,Undergraduate,Sciences,R057,Data Science Vol.5,E-Book,McGraw Hill,2011,2025-02-12 10:20:00,23.3,Mobile,0,4.0,Remote
+A00640,U1160,Faculty,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-15 11:45:00,,Laptop,0,3.0,On-Campus
+A00641,U1090,Undergraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-15 11:48:00,12.0,Campus PC,1,4.0,On-Campus
+A00642,U1316,Postgraduate,Management,R055,Data Science Vol.1,E-Book,Springer,2016,2025-03-20 14:30:00,55.0,Mobile,0,5.0,Remote
+A00643,U1330,Faculty,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-17 12:46:00,39.7,,0,5.0,Remote
+A00644,U1246,Postgraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-01-15 11:04:00,,Laptop,0,4.0,On-Campus
+A00645,U1076,Undergraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-01-03 17:38:00,43.6,Campus PC,0,3.0,Remote
+A00646,U1082,Undergraduate,Civil,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-26 06:40:00,50.2,Campus PC,0,2.0,On-Campus
+A00647,U1370,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-25 12:30:00,56.5,Mobile,0,5.0,Remote
+A00648,U1661,Researcher,Sciences,R014,SpringerLink Vol.3,Database,Springer,2022,2025-01-06 18:42:00,14.8,Laptop,0,4.0,On-Campus
+A00649,U1418,Postgraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-09 10:29:00,43.6,Laptop,0,4.0,Remote
+A00650,U1306,Undergraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,invalid,21.7,Laptop,0,5.0,On-Campus
+A00651,U1651,Undergraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-08-09 10:36:00,28.5,Laptop,1,3.0,Remote
+A00652,U1483,Faculty,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-10-23 00:47:00,15.4,Laptop,0,5.0,On-Campus
+A00653,U1502,Undergraduate,Civil,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-23 15:14:00,24.6,Laptop,0,4.0,On-Campus
+A00654,U1402,Postgraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-25 05:18:00,44.0,Mobile,0,3.0,On-Campus
+A00655,U1534,Postgraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-01 11:25:00,65.5,Mobile,0,2.0,Remote
+A00656,U1351,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-12-14 23:12:00,22.9,Laptop,1,4.0,On-Campus
+A00657,U1435,Undergraduate,ECE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-04-16 21:20:00,12.3,Mobile,0,3.0,Remote
+A00658,U1431,Undergraduate,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-03-24 10:21:00,71.5,Laptop,0,4.0,On-Campus
+A00659,U1526,Undergraduate,Management,R020,AI Vol.1,Journal,Springer,2007,2025-02-07 12:18:00,14.4,Campus PC,0,5.0,Remote
+A00660,U1628,Postgraduate,Sciences,R048,Materials Vol.5,Journal,Springer,2017,2025-08-09 15:24:00,5.9,Campus PC,0,4.0,Remote
+A00661,U1205,Faculty,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-08-06 20:30:00,16.3,Mobile,0,4.0,On-Campus
+A00662,U1489,Undergraduate,Mechanical,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-10-22 20:41:00,3.0,Mobile,1,4.0,Remote
+A00663,U1022,Undergraduate,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-10-28 09:18:00,48.7,Laptop,0,4.0,Remote
+A00664,U1372,Undergraduate,Mechanical,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-11-04 09:50:00,13.6,Laptop,1,5.0,Remote
+A00665,U1629,Undergraduate,Management,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-10-07 14:28:00,9.9,Mobile,0,,On-Campus
+A00666,U1451,Postgraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-09 21:43:00,26.8,Campus PC,0,5.0,Remote
+A00667,U1187,Postgraduate,Management,R044,Finance Vol.1,Journal,IEEE,2024,2025-08-25 21:06:00,65.5,Mobile,1,1.0,On-Campus
+A00668,U1424,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-04-13 08:10:00,33.7,Mobile,0,3.0,On-Campus
+A00669,U1250,Undergraduate,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-08 16:27:00,8.5,Laptop,1,5.0,On-Campus
+A00670,U1303,Postgraduate,Sciences,R031,Thermodynamics Vol.4,E-Book,Wiley,2014,2025-11-10 09:21:00,86.9,Laptop,0,2.0,Remote
+A00671,U1159,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-17 18:29:00,31.2,Laptop,0,3.0,Remote
+A00672,U1437,Researcher,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-12-11 21:09:00,45.6,Laptop,0,3.0,On-Campus
+A00673,U1138,Postgraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-05-04 14:28:00,7.0,Campus PC,0,5.0,On-Campus
+A00674,U1310,Researcher,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-23 08:41:00,78.1,Mobile,1,4.0,On-Campus
+A00675,U1657,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-12 16:43:00,18.8,Laptop,0,2.0,On-Campus
+A00676,U1530,Undergraduate,Sciences,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-02-08 14:14:00,6.5,Mobile,0,4.0,Remote
+A00677,U1290,Postgraduate,Civil,R009,JSTOR Vol.1,Database,IEEE,2014,2025-03-21 20:20:00,29.0,Laptop,1,3.0,Remote
+A00678,U1678,Undergraduate,ECE,R018,Marketing Vol.4,E-Book,Taylor & Francis,2018,2025-08-21 12:31:00,45.6,Laptop,1,5.0,Remote
+A00679,U1009,Postgraduate,Management,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-02-05 21:31:00,37.1,Laptop,1,2.0,Remote
+A00680,U1671,Undergraduate,Sciences,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-11-03 11:47:00,36.7,Mobile,1,,On-Campus
+A00681,U1246,Researcher,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-02 09:23:00,35.0,Campus PC,0,4.0,On-Campus
+A00682,U1574,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-22 12:40:00,27.2,Laptop,0,4.0,On-Campus
+A00683,U1663,Researcher,Civil,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-10-18 04:53:00,7.0,Campus PC,1,5.0,Remote
+A00684,U1421,Undergraduate,Civil,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-02-23 11:17:00,21.5,Laptop,0,3.0,Remote
+A00685,U1427,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-18 17:49:00,19.5,Campus PC,0,5.0,On-Campus
+A00686,U1524,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-12 09:19:00,56.7,Laptop,1,4.0,On-Campus
+A00687,U1167,Undergraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-17 08:20:00,48.8,Laptop,0,4.0,On-Campus
+A00688,U1124,Researcher,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-21 09:39:00,17.6,Laptop,1,4.0,Remote
+A00689,U1240,Faculty,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-12 07:37:00,41.1,Laptop,0,3.0,On-Campus
+A00690,U1335,Researcher,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-26 21:32:00,23.7,Laptop,1,2.0,On-Campus
+A00691,U1520,Researcher,Mechanical,R032,Signal Processing Vol.2,Journal,McGraw Hill,2018,2025-10-26 22:13:00,5.9,Laptop,0,2.0,On-Campus
+A00692,U1180,Postgraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-09-23 06:05:00,2.7,Laptop,0,5.0,Remote
+A00693,U1395,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-28 19:54:00,38.0,Laptop,1,5.0,Remote
+A00694,U1002,Faculty,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-11 19:52:00,10.9,Laptop,0,3.0,On-Campus
+A00695,U1021,Undergraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-04 23:53:00,10.9,Laptop,0,4.0,Remote
+A00696,U1676,Faculty,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-11-14 13:30:00,14.7,Laptop,1,5.0,On-Campus
+A00697,U1595,Undergraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-21 11:53:00,38.6,Laptop,1,,Remote
+A00698,U1604,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-22 14:28:00,49.2,Laptop,1,4.0,On-Campus
+A00699,U1230,Undergraduate,Civil,R071,JSTOR Vol.3,Database,Wiley,2009,2025-06-11 20:04:00,48.5,Campus PC,0,5.0,On-Campus
+A00700,U1359,Undergraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-09 19:11:00,5.3,Mobile,0,3.0,On-Campus
+A00701,U1472,Undergraduate,CSE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-12-13 15:16:00,,Mobile,0,4.0,Remote
+A00702,U1177,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-23 11:22:00,12.5,Mobile,0,3.0,On-Campus
+A00703,U1521,Undergraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-03-02 19:56:00,38.6,Laptop,0,1.0,On-Campus
+A00704,U1485,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-10 20:19:00,14.4,Laptop,0,4.0,On-Campus
+A00705,U1285,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,invalid,22.5,Laptop,0,5.0,On-Campus
+A00706,U1304,Postgraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-08-23 18:16:00,40.8,Mobile,0,5.0,Remote
+A00707,U1215,Undergraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-14 14:38:00,25.7,Campus PC,0,3.0,On-Campus
+A00708,U1562,Faculty,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-03 15:34:00,31.1,Laptop,0,5.0,On-Campus
+A00709,U1690,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-08 16:09:00,22.0,Laptop,0,5.0,Remote
+A00710,U1699,Postgraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-08-02 19:27:00,46.0,Mobile,1,4.0,On-Campus
+A00711,U1539,Undergraduate,CSE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-09-14 22:06:00,48.9,Mobile,1,5.0,Remote
+A00712,U1244,Undergraduate,Civil,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-28 14:53:00,35.0,Mobile,0,5.0,On-Campus
+A00713,U1546,Postgraduate,Management,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-16 12:42:00,49.0,Laptop,1,5.0,Remote
+A00714,U1171,Postgraduate,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-25 13:56:00,104.4,Laptop,1,5.0,Remote
+A00715,U1627,Undergraduate,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-21 09:52:00,40.4,Mobile,0,4.0,On-Campus
+A00716,U1187,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-25 12:13:00,24.3,Mobile,0,,On-Campus
+A00717,U1282,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-09 08:42:00,31.6,Mobile,0,5.0,Remote
+A00718,U1065,Undergraduate,Management,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-02-27 14:06:00,52.2,Laptop,0,5.0,Remote
+A00719,U1056,Undergraduate,ECE,R044,Finance Vol.1,Journal,IEEE,2024,2025-04-07 09:57:00,18.7,Mobile,0,2.0,On-Campus
+A00720,U1275,Postgraduate,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-08-13 13:47:00,17.6,Mobile,0,3.0,On-Campus
+A00721,U1385,Undergraduate,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-11-20 20:40:00,31.2,Mobile,1,3.0,On-Campus
+A00722,U1012,Postgraduate,Mechanical,R040,JSTOR Vol.3,Database,IEEE,2018,2025-09-09 11:59:00,,Laptop,0,5.0,Remote
+A00723,U1592,Undergraduate,ECE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-02-08 17:50:00,12.4,Campus PC,0,3.0,Remote
+A00724,U1080,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-08-04 21:51:00,28.1,,1,3.0,On-Campus
+A00725,U1698,Undergraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-03-01 16:06:00,58.9,Mobile,1,4.0,On-Campus
+A00726,U1190,Undergraduate,CSE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-09-15 10:01:00,34.2,Campus PC,1,,Remote
+A00727,U1265,Undergraduate,Management,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-10-28 13:57:00,10.4,Campus PC,1,,Remote
+A00728,U1111,FACULTY,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-08-07 16:15:00,37.8,Laptop,1,4.0,On-Campus
+A00729,U1577,Postgraduate,Mechanical,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-08-13 15:25:00,20.7,Mobile,0,3.0,On-Campus
+A00730,U1512,Undergraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-27 09:02:00,84.0,Laptop,1,,On-Campus
+A00731,U1054,Undergraduate,Civil,R023,Finance Vol.2,Journal,Pearson,2005,2025-06-22 14:37:00,35.9,Campus PC,0,5.0,Remote
+A00732,U1073,Faculty,ECE,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-10-01 16:49:00,16.2,Laptop,0,4.0,On-Campus
+A00733,U1426,Undergraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-15 11:50:00,39.7,Laptop,0,4.0,On-Campus
+A01314,U1648,UNDERGRADUATE,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-09 12:46:00,36.3,Mobile,0,4.0,On-Campus
+A00735,U1076,Faculty,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-07 07:39:00,55.5,Campus PC,0,5.0,On-Campus
+A00736,U1154,Undergraduate,Sciences,R057,Data Science Vol.5,E-Book,McGraw Hill,2011,2025-01-07 12:30:00,17.5,Mobile,0,5.0,On-Campus
+A00737,U1381,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-03-18 20:26:00,35.9,Mobile,0,5.0,On-Campus
+A00738,U1076,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-06 11:33:00,7.0,Campus PC,0,4.0,On-Campus
+A00739,U1213,Postgraduate,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-04-08 17:56:00,27.3,Mobile,0,5.0,On-Campus
+A00740,U1007,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-11-07 14:15:00,10.2,Laptop,1,,On-Campus
+A00741,U1349,Postgraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-10 12:28:00,28.8,Mobile,0,4.0,On-Campus
+A00742,U1500,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-19 21:36:00,33.1,Mobile,0,5.0,On-Campus
+A00743,U1288,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-02-12 12:34:00,35.0,Mobile,0,5.0,Remote
+A00744,U1179,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-04-10 11:01:00,-5.0,Laptop,1,5.0,Remote
+A00745,U1297,Faculty,Sciences,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-15 21:17:00,27.8,Laptop,0,5.0,On-Campus
+A00746,U1356,Undergraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-05-18 19:38:00,51.2,Laptop,0,4.0,Remote
+A00747,U1116,Postgraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-01 18:41:00,69.9,Mobile,0,4.0,On-Campus
+A00748,U1078,Undergraduate,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-10-25 06:44:00,28.5,Campus PC,1,3.0,Remote
+A00749,U1127,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-02-26 09:59:00,52.1,Laptop,1,4.0,Remote
+A00750,U1689,Undergraduate,CSE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-08-17 17:40:00,13.2,Campus PC,1,4.0,Remote
+A00751,U1506,Undergraduate,Civil,R060,MTech Thesis Vol.5,Thesis,Elsevier,2020,2025-12-17 10:34:00,19.5,Laptop,1,3.0,Remote
+A00752,U1087,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,,2021,2025-05-20 10:19:00,30.6,Mobile,0,5.0,On-Campus
+A00753,U1210,Faculty,Mechanical,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-01-13 19:22:00,24.1,Laptop,0,3.0,On-Campus
+A00754,U1288,Faculty,CSE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-11-11 11:49:00,22.4,Campus PC,0,5.0,On-Campus
+A00755,U1126,Postgraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-10 07:28:00,48.8,Mobile,0,3.0,On-Campus
+A00756,U1596,Postgraduate,Mechanical,R040,JSTOR Vol.3,Database,IEEE,2018,2025-07-05 04:42:00,11.6,Laptop,1,1.0,Remote
+A00757,U1658,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-24 14:07:00,12.5,Laptop,1,1.0,On-Campus
+A00758,U1171,Postgraduate, cse ,R001,JSTOR Vol.3,Database,Wiley,2023,2025-03-09 17:07:00,8.9,Mobile,0,4.0,On-Campus
+A00759,U1011,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-10-08 21:12:00,31.2,Laptop,0,4.0,On-Campus
+A00760,U1186,Faculty,Civil,R028,Materials Vol.5,Journal,IEEE,2008,2025-07-27 08:11:00,20.7,Mobile,0,3.0,Remote
+A00761,U1407,Faculty,Management,R008,AI Vol.5,Journal,Wiley,2023,2025-01-15 10:36:00,45.8,Mobile,0,4.0,On-Campus
+A00762,U1565,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-09-18 16:38:00,29.4,Campus PC,0,4.0,On-Campus
+A00763,U1237,Faculty,CSE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-11-07 13:33:00,17.2,Laptop,0,2.0,Remote
+A00764,U1191,Faculty,Sciences,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-08 15:17:00,15.3,Laptop,0,3.0,On-Campus
+A00765,U1174,Undergraduate,ECE,R062,Programming Vol.4,E-Book,IEEE,2018,2025-04-21 21:34:00,2.7,Laptop,0,2.0,Remote
+A00766,U1002,Faculty,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-13 16:07:00,23.1,Campus PC,0,,On-Campus
+A00767,U1009,Undergraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-05 14:28:00,-5.0,Laptop,1,3.0,On-Campus
+A00768,U1299,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-24 23:09:00,49.5,Laptop,0,5.0,Remote
+A00769,U1432,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,,2021,2025-08-12 07:04:00,19.9,Mobile,0,4.0,On-Campus
+A00770,U1008,Postgraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-09-19 21:09:00,7.6,Laptop,0,5.0,On-Campus
+A00771,U1140,Undergraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-07-10 15:06:00,55.7,Laptop,1,5.0,On-Campus
+A00772,U1636,Researcher,ECE,R055,Data Science Vol.1,E-Book,Springer,2016,2025-05-16 15:28:00,23.3,Laptop,0,4.0,Remote
+A00773,U1693,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-02-22 21:32:00,37.7,Laptop,1,,Remote
+A00774,U1449,Undergraduate,Sciences,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-02-25 15:36:00,17.4,Mobile,0,1.0,On-Campus
+A00775,U1365,Postgraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-03-06 14:26:00,56.9,Campus PC,0,4.0,On-Campus
+A00776,U1408,Undergraduate,Management,R020,AI Vol.1,Journal,Springer,2007,2025-10-19 11:10:00,13.8,Campus PC,0,3.0,On-Campus
+A00777,U1259,Postgraduate,Civil,R064,Programming Vol.5,E-Book,NPTEL,2010,invalid,20.6,Laptop,1,3.0,Remote
+A00778,U1141,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-18 16:42:00,5.6,Laptop,1,,On-Campus
+A00779,U1263,Researcher,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-08-05 10:58:00,56.0,Laptop,1,3.0,On-Campus
+A00780,U1489,Postgraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-03-06 18:16:00,15.8,Laptop,1,1.0,On-Campus
+A00781,U1463,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-06 17:12:00,31.7,Laptop,0,5.0,Remote
+A00782,U1474,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-03 14:18:00,34.6,Laptop,0,3.0,On-Campus
+A00783,U1426,Undergraduate,ECE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-22 00:12:00,50.4,Mobile,0,4.0,On-Campus
+A00784,U1042,Researcher,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-09-28 14:13:00,30.1,Mobile,0,2.0,Remote
+A00785,U1438,Postgraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-11-15 00:29:00,24.3,Laptop,0,4.0,On-Campus
+A00786,U1616,Undergraduate,Civil,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-03-17 07:47:00,47.3,Laptop,1,,On-Campus
+A00787,U1454,Undergraduate,CSE,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-11-22 14:42:00,34.3,Mobile,1,4.0,On-Campus
+A00788,U1405,Faculty,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-11-12 07:57:00,21.8,Mobile,1,4.0,On-Campus
+A00789,U1156,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-14 11:21:00,57.6,Laptop,0,3.0,On-Campus
+A00790,U1554,Postgraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-17 17:29:00,36.0,Laptop,1,4.0,On-Campus
+A00791,U1316,Postgraduate,Management,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-08-09 12:22:00,-5.0,Laptop,1,4.0,On-Campus
+A00792,U1184,Undergraduate,CSE,R066,Thermodynamics Vol.3,E-Book,McGraw Hill,2023,2025-09-02 23:02:00,64.0,Laptop,1,3.0,On-Campus
+A00793,U1342,Undergraduate,Management,R046,Programming Vol.5,E-Book,Wiley,2015,2025-09-16 21:23:00,17.0,Campus PC,0,3.0,Remote
+A00794,U1085,Undergraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-24 16:15:00,50.3,Mobile,0,4.0,On-Campus
+A00795,U1648,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-03 22:28:00,7.7,Campus PC,1,5.0,Remote
+A00796,U1491,Researcher,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-07 21:09:00,47.1,Mobile,1,5.0,On-Campus
+A00797,U1228,Postgraduate, cse ,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-08 12:44:00,10.1,Laptop,0,5.0,On-Campus
+A00798,U1555,Faculty,Management,R038,Marketing Vol.2,E-Book,,2017,2025-05-23 19:50:00,29.6,Mobile,0,4.0,On-Campus
+A00799,U1037,Undergraduate,Civil,R041,AI Vol.4,Journal,McGraw Hill,2006,2025-01-15 09:57:00,35.4,Mobile,0,,On-Campus
+A00800,U1270,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-15 18:05:00,22.1,Mobile,0,5.0,Remote
+A00801,U1455,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-19 15:07:00,26.3,Mobile,1,1.0,On-Campus
+A00802,U1016,Undergraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-06-08 02:57:00,11.9,Campus PC,0,4.0,Remote
+A00803,U1496,Undergraduate,ece,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-20 11:50:00,44.0,Laptop,0,3.0,Remote
+A00804,U1572,Undergraduate,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-01 22:35:00,30.6,Campus PC,1,5.0,On-Campus
+A00805,U1415,Postgraduate,Management,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-08-04 12:19:00,13.7,Laptop,0,5.0,Remote
+A00806,U1144,Postgraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-23 10:31:00,31.4,Laptop,0,5.0,On-Campus
+A00807,U1524,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-12-19 10:32:00,32.0,Mobile,0,3.0,On-Campus
+A00808,U1237,Faculty,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-05 15:50:00,27.1,Laptop,0,5.0,On-Campus
+A00809,U1515,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-13 20:31:00,2.8,Laptop,1,1.0,Remote
+A00810,U1439,Undergraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-02 19:01:00,19.9,Campus PC,1,3.0,Remote
+A00811,U1065,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-19 14:41:00,,Campus PC,1,4.0,Remote
+A00812,U1069,Faculty,CSE,R014,SpringerLink Vol.3,Database,Springer,2022,2025-07-22 10:46:00,36.6,Mobile,0,5.0,Remote
+A00813,U1010,Undergraduate,Civil,R027,Construction Vol.4,Journal,NPTEL,2018,2025-09-08 06:17:00,35.9,Laptop,1,5.0,On-Campus
+A00814,U1050,Undergraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-10 15:06:00,30.5,Laptop,0,3.0,Remote
+A00815,U1209,Undergraduate,Civil,R028,Materials Vol.5,Journal,IEEE,2008,2025-04-07 20:08:00,46.8,Laptop,1,4.0,Remote
+A00816,U1017,Postgraduate,ECE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-09-11 19:50:00,17.0,Mobile,0,4.0,Remote
+A00817,U1656,Postgraduate, cse ,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-08 14:26:00,14.4,Laptop,0,,On-Campus
+A00818,U1641,Undergraduate,ECE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-07 16:31:00,73.9,Laptop,0,5.0,Remote
+A00819,U1120,Researcher,Sciences,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-07-13 14:57:00,15.7,Mobile,1,3.0,On-Campus
+A00820,U1217,Undergraduate,ECE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-25 16:03:00,9.3,Laptop,1,3.0,Remote
+A00821,U1519,Undergraduate,CSE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-08-22 15:12:00,21.8,Mobile,0,4.0,Remote
+A00822,U1462,Postgraduate,ECE,R057,Data Science Vol.5,E-Book,McGraw Hill,2011,2025-09-09 18:49:00,27.8,Campus PC,0,5.0,Remote
+A00823,U1407,Postgraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-27 15:32:00,47.0,Mobile,1,5.0,On-Campus
+A00824,U1692,Undergraduate,Sciences,R061,NPTEL Lecture Vol.5,Video,Elsevier,2015,2025-07-06 22:01:00,20.0,Mobile,0,3.0,On-Campus
+A00825,U1440,Postgraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-26 14:42:00,19.8,Mobile,0,3.0,Remote
+A00826,U1468,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-09 02:08:00,26.1,Campus PC,1,5.0,Remote
+A00827,U1351,Postgraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-16 11:46:00,17.6,Laptop,0,4.0,Remote
+A00828,U1367,Postgraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-02-06 15:47:00,7.8,Mobile,1,4.0,Remote
+A00829,U1203,Researcher,Mechanical,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-09-22 16:49:00,10.0,Mobile,0,,On-Campus
+A00830,U1364,Undergraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-09 16:27:00,54.9,Laptop,1,5.0,Remote
+A00831,U1642,Postgraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-01-25 18:16:00,40.9,Laptop,0,5.0,On-Campus
+A00832,U1263,Postgraduate,ECE,R057,Data Science Vol.5,E-Book,McGraw Hill,2011,2025-08-03 11:52:00,25.5,Mobile,1,3.0,On-Campus
+A00833,U1093,Undergraduate,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-10-15 18:33:00,36.6,Campus PC,0,2.0,On-Campus
+A00834,U1419,Undergraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-05 18:38:00,41.6,Mobile,1,3.0,On-Campus
+A00835,U1549,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-25 14:08:00,16.3,Laptop,1,3.0,On-Campus
+A00836,U1671,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-12 14:37:00,,Mobile,0,2.0,Remote
+A00837,U1379,Postgraduate,Sciences,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-09-19 10:34:00,51.5,Laptop,0,3.0,On-Campus
+A00838,U1551,Undergraduate,Mechanical,R044,Finance Vol.1,Journal,IEEE,2024,2025-10-25 14:17:00,3.6,Laptop,0,2.0,Remote
+A00839,U1175,Faculty,Management,R062,Programming Vol.4,E-Book,IEEE,2018,2025-02-15 19:46:00,36.9,Laptop,0,4.0,On-Campus
+A00840,U1296,Undergraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-02 21:08:00,29.3,Laptop,0,4.0,Remote
+A00841,U1293,Researcher,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-01-07 16:43:00,48.3,Campus PC,0,4.0,On-Campus
+A00842,U1232,Postgraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-06 12:57:00,37.8,Campus PC,0,5.0,Remote
+A00843,U1501,Undergraduate,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-02-26 18:34:00,36.4,Laptop,1,3.0,On-Campus
+A00844,U1618,Postgraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-26 19:06:00,12.8,Laptop,0,5.0,On-Campus
+A00845,U1228,Postgraduate,ECE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-01-14 12:33:00,42.6,Campus PC,0,,On-Campus
+A00846,U1095,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-06-25 20:31:00,34.1,Mobile,0,5.0,On-Campus
+A00847,U1577,Undergraduate, cse ,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-07 07:33:00,14.1,Mobile,0,,On-Campus
+A00848,U1594,Postgraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-20 01:16:00,29.5,Mobile,0,3.0,On-Campus
+A00849,U1654,Postgraduate,Management,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-06-11 09:37:00,10.8,Campus PC,1,4.0,On-Campus
+A00850,U1178,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-05-07 09:15:00,23.1,Mobile,0,3.0,Remote
+A00851,U1503,Faculty,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-08 21:33:00,92.3,Mobile,0,2.0,On-Campus
+A00852,U1500,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-11-12 14:35:00,,Laptop,0,2.0,On-Campus
+A00853,U1553,Undergraduate,Management,R028,Materials Vol.5,Journal,IEEE,2008,2025-09-10 11:38:00,7.8,Mobile,0,4.0,On-Campus
+A00854,U1564,Postgraduate,Civil,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-02-06 14:47:00,10.1,Mobile,1,5.0,On-Campus
+A00855,U1666,Undergraduate,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-04-10 13:52:00,22.9,Laptop,0,3.0,On-Campus
+A00856,U1333,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-04 12:46:00,39.6,Mobile,0,5.0,Remote
+A00857,U1053,Undergraduate,ECE,R022,Scopus Vol.4,Database,Pearson,2016,2025-02-28 09:47:00,26.6,Campus PC,0,5.0,On-Campus
+A00858,U1134,Undergraduate,Sciences,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-05-11 17:52:00,8.7,Mobile,0,2.0,On-Campus
+A00859,U1620,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-04 09:14:00,39.2,Campus PC,0,,On-Campus
+A00860,U1591,Postgraduate,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-17 19:17:00,5.0,Laptop,0,2.0,On-Campus
+A00861,U1007,Undergraduate,Mechanical,R001,JSTOR Vol.3,Database,Wiley,2023,2025-05-25 10:31:00,9.6,Mobile,1,5.0,Remote
+A00862,U1257,Faculty,Mechanical,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-09-11 19:27:00,999.0,Mobile,0,5.0,On-Campus
+A00533,U1629,Undergraduate,ECE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-10-21 19:13:00,17.2,Laptop,0,3.0,Remote
+A00864,U1224,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-18 09:00:00,27.4,Laptop,1,4.0,On-Campus
+A00865,U1447,Undergraduate,ECE,R018,Marketing Vol.4,E-Book,Taylor & Francis,2018,2025-01-21 08:08:00,28.1,Mobile,0,3.0,Remote
+A00866,U1357,Postgraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-09 22:44:00,8.9,Campus PC,0,5.0,On-Campus
+A00867,U1336,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-08-02 15:49:00,18.3,Laptop,1,,Remote
+A00868,U1304,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-10 17:18:00,,Campus PC,1,5.0,On-Campus
+A00869,U1449,Faculty,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-09-26 03:18:00,32.7,Mobile,1,4.0,On-Campus
+A00870,U1478,Postgraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-04-23 11:33:00,40.2,Mobile,1,1.0,Remote
+A00871,U1030,Postgraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-22 15:28:00,25.4,Laptop,0,1.0,Remote
+A00872,U1096,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-25 21:10:00,46.2,Mobile,1,3.0,On-Campus
+A00873,U1238,Undergraduate,ECE,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-07-11 11:30:00,8.8,Mobile,0,4.0,On-Campus
+A00874,U1304,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-10 19:49:00,22.5,Mobile,0,5.0,On-Campus
+A00875,U1697,Postgraduate,Management,R079,Project Report Vol.5,Thesis,,2014,2025-04-26 17:43:00,35.9,Mobile,1,5.0,Remote
+A00876,U1624,Undergraduate,Sciences,R009,JSTOR Vol.1,Database,IEEE,2014,2025-07-17 08:49:00,6.5,Laptop,1,3.0,On-Campus
+A00877,U1454,Undergraduate,Management,R018,Marketing Vol.4,E-Book,Taylor & Francis,2018,2025-03-09 12:38:00,2.0,Mobile,1,3.0,On-Campus
+A00878,U1025,Undergraduate,Mechanical,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,invalid,73.9,Campus PC,0,2.0,On-Campus
+A00879,U1070,Postgraduate,Management,R026,Physics Vol.2,E-Book,Wiley,2018,2025-10-25 14:14:00,27.6,Mobile,1,,Remote
+A00880,U1320,Postgraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-02 17:02:00,5.9,Laptop,0,5.0,On-Campus
+A00881,U1410,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-11-02 14:06:00,27.2,Laptop,1,4.0,On-Campus
+A00882,U1462,Undergraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-12-21 11:59:00,,Laptop,1,4.0,Remote
+A00883,U1099,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-01 18:38:00,12.8,Campus PC,0,4.0,On-Campus
+A00884,U1621,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-11-05 16:14:00,51.4,Campus PC,1,3.0,Remote
+A00885,U1345,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-28 15:51:00,17.4,Mobile,0,3.0,Remote
+A00886,U1415,Undergraduate,CSE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-05-12 16:18:00,17.3,Laptop,0,3.0,On-Campus
+A00887,U1027,Postgraduate,Civil,R044,Finance Vol.1,Journal,IEEE,2024,2025-08-21 10:35:00,9.5,Campus PC,1,3.0,Remote
+A00888,U1577,Postgraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-04-14 18:14:00,20.2,Mobile,0,4.0,Remote
+A00889,U1380,Researcher,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-03 13:05:00,28.8,Laptop,0,3.0,On-Campus
+A00890,U1155,Researcher,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-03-06 13:16:00,-5.0,Mobile,0,5.0,On-Campus
+A00891,U1223,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-02-22 09:13:00,85.8,Laptop,0,4.0,Remote
+A00892,U1246,Undergraduate,Sciences,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-07-03 16:33:00,11.5,Laptop,0,4.0,On-Campus
+A00893,U1018,UNDERGRADUATE,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-17 17:01:00,11.4,Laptop,0,5.0,On-Campus
+A00894,U1659,Postgraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-10 12:14:00,,Campus PC,0,3.0,On-Campus
+A00895,U1562,UNDERGRADUATE,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-11 20:34:00,79.6,Laptop,0,4.0,Remote
+A00896,U1620,Undergraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-05-27 20:23:00,40.6,Campus PC,0,1.0,Remote
+A00897,U1247,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-07-17 08:38:00,16.9,Laptop,0,5.0,Remote
+A00898,U1390,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-18 18:39:00,-5.0,Laptop,0,4.0,On-Campus
+A00899,U1320,Postgraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-10-10 13:57:00,11.1,Laptop,1,3.0,Remote
+A00900,U1332,Postgraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-11 23:50:00,19.2,Laptop,0,1.0,On-Campus
+A00901,U1412,Undergraduate,Civil,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-09-20 10:13:00,22.1,Campus PC,0,5.0,Remote
+A00902,U1315,Faculty,CSE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-10-02 11:41:00,39.4,Mobile,0,4.0,Remote
+A00903,U1541,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-07 14:37:00,34.2,Campus PC,0,4.0,On-Campus
+A00904,U1041,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-17 11:35:00,18.7,Laptop,1,4.0,On-Campus
+A00905,U1134,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-18 18:47:00,62.1,Laptop,0,4.0,On-Campus
+A00906,U1624,Postgraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-03 15:08:00,15.2,Laptop,0,,On-Campus
+A00907,U1617,Postgraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-23 10:22:00,7.6,Laptop,1,3.0,Remote
+A00236,U1659,Undergraduate,ece,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-03-14 21:35:00,46.2,Laptop,0,5.0,On-Campus
+A00909,U1258,Researcher,Sciences,R044,Finance Vol.1,Journal,IEEE,2024,2025-09-07 21:53:00,49.1,Laptop,1,4.0,Remote
+A00910,U1319,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-22 20:02:00,24.7,Mobile,0,5.0,On-Campus
+A00911,U1017,Undergraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-12-28 15:28:00,-5.0,,0,4.0,On-Campus
+A00912,U1195,Postgraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-12 11:15:00,28.2,Laptop,1,4.0,Remote
+A00913,U1508,Researcher,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-08 10:10:00,30.6,Laptop,0,5.0,On-Campus
+A00914,U1240,Postgraduate,CSE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-09 21:03:00,32.7,Laptop,0,5.0,Remote
+A00915,U1336,RESEARCHER,Sciences,R049,Finance Vol.2,Journal,NPTEL,2011,2025-06-17 18:32:00,28.5,Mobile,1,3.0,Remote
+A00916,U1086,Undergraduate,Management,R009,JSTOR Vol.1,Database,IEEE,2014,2025-11-02 16:40:00,53.2,Laptop,0,5.0,On-Campus
+A00917,U1347,Postgraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-05-14 21:31:00,10.9,Laptop,1,3.0,On-Campus
+A00918,U1505,Faculty,Mechanical,R001,JSTOR Vol.3,Database,Wiley,2023,2025-08-01 09:22:00,1.1,Laptop,0,5.0,On-Campus
+A00919,U1400,Undergraduate,Mechanical,R040,JSTOR Vol.3,Database,IEEE,2018,2025-02-02 18:46:00,5.0,Laptop,0,3.0,Remote
+A00920,U1389,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-13 10:39:00,9.0,Laptop,1,4.0,On-Campus
+A00921,U1640,Researcher,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-10-21 09:54:00,43.8,Laptop,0,5.0,Remote
+A00922,U1163,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-05-25 15:20:00,20.2,Mobile,0,2.0,Remote
+A00923,U1209,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-03 13:14:00,65.1,,1,5.0,On-Campus
+A00924,U1436,Faculty,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-03-07 22:27:00,10.3,Laptop,0,4.0,Remote
+A00925,U1336,Faculty,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-07-12 12:30:00,64.3,Mobile,0,2.0,On-Campus
+A00926,U1685,Researcher,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-17 20:27:00,12.9,Mobile,1,5.0,On-Campus
+A00927,U1041,Faculty,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-28 19:49:00,22.1,Mobile,0,4.0,On-Campus
+A00928,U1085,Undergraduate,Sciences,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-02-20 18:02:00,999.0,Mobile,0,5.0,Remote
+A00929,U1239,Researcher,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-16 21:31:00,59.1,Campus PC,1,5.0,On-Campus
+A00930,U1320,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-02 14:25:00,24.2,Mobile,0,1.0,Remote
+A00931,U1623,Postgraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-03 13:12:00,88.2,Mobile,1,3.0,On-Campus
+A00932,U1345,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-06-05 09:38:00,50.5,Campus PC,1,3.0,Remote
+A00933,U1306,Faculty,ECE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-05-19 11:48:00,999.0,Campus PC,0,4.0,Remote
+A00934,U1116,POSTGRADUATE,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-10 21:32:00,14.6,Mobile,0,,Remote
+A00935,U1303,Faculty,Management,R046,Programming Vol.5,E-Book,Wiley,2015,2025-08-07 15:05:00,,Campus PC,1,4.0,On-Campus
+A00936,U1372,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-19 12:04:00,26.0,Mobile,1,5.0,On-Campus
+A00937,U1408,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-07-23 10:25:00,14.0,Laptop,0,3.0,On-Campus
+A00938,U1424,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-13 15:40:00,27.3,Mobile,0,5.0,On-Campus
+A00939,U1300,Undergraduate,Civil,R022,Scopus Vol.4,Database,Pearson,2016,2025-10-25 18:18:00,4.2,Laptop,0,4.0,Remote
+A00940,U1110,Postgraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-21 11:18:00,33.1,Mobile,1,2.0,On-Campus
+A00941,U1106,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-21 19:51:00,37.4,Laptop,1,3.0,On-Campus
+A00942,U1108,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-25 17:00:00,10.0,Mobile,1,3.0,Remote
+A00943,U1433,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-03-06 19:04:00,54.1,Laptop,0,4.0,On-Campus
+A00944,U1599,Undergraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-08-22 11:09:00,47.0,Laptop,1,2.0,Remote
+A00945,U1618,Postgraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-04-27 17:59:00,31.2,Mobile,0,,On-Campus
+A00946,U1217,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-28 09:29:00,12.2,Campus PC,0,5.0,On-Campus
+A00947,U1055,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-17 13:09:00,38.8,Laptop,0,2.0,Remote
+A00948,U1441,Undergraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-09-22 19:18:00,19.4,Mobile,0,5.0,On-Campus
+A00949,U1026,Undergraduate,Civil,R016,Webinar Vol.2,Video,NPTEL,2011,2025-04-25 17:58:00,29.0,Mobile,0,5.0,Remote
+A00950,U1438,Postgraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-07-24 10:41:00,41.2,Mobile,0,1.0,On-Campus
+A00951,U1268,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-11-26 20:13:00,7.7,Mobile,0,5.0,On-Campus
+A00952,U1587,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-05-24 06:14:00,5.7,Laptop,1,3.0,On-Campus
+A00953,U1437,Postgraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-11 16:04:00,,Laptop,0,4.0,On-Campus
+A00954,U1517,Undergraduate,Civil,R078,AI Vol.5,Journal,Springer,2017,2025-12-21 23:46:00,79.1,Laptop,0,3.0,On-Campus
+A00955,U1284,Postgraduate,ece,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-12 16:08:00,90.4,Laptop,0,5.0,On-Campus
+A00956,U1588,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-03-23 20:17:00,32.6,Laptop,0,5.0,On-Campus
+A00957,U1367,Researcher,Management,R022,Scopus Vol.4,Database,,2016,2025-10-23 16:20:00,47.9,Mobile,0,5.0,Remote
+A00958,U1437,Undergraduate, cse ,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-01-27 19:37:00,24.9,Laptop,1,5.0,On-Campus
+A00959,U1252,Undergraduate,Management,R028,Materials Vol.5,Journal,IEEE,2008,2025-05-17 17:36:00,27.3,Campus PC,0,2.0,Remote
+A00960,U1314,Faculty,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-14 18:47:00,22.0,Mobile,0,4.0,On-Campus
+A00961,U1588,Postgraduate,Mechanical,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-05 10:17:00,,Laptop,1,3.0,Remote
+A00962,U1275,Postgraduate,Sciences,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-08-18 19:23:00,65.6,Campus PC,0,2.0,On-Campus
+A00963,U1014,Faculty,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-16 11:23:00,26.9,Laptop,1,3.0,On-Campus
+A00964,U1265,Undergraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-10-15 23:02:00,27.2,Campus PC,0,5.0,On-Campus
+A00965,U1274,Faculty,Sciences,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-09-19 10:44:00,22.9,Mobile,1,4.0,On-Campus
+A00966,U1292,Postgraduate,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-07-24 11:32:00,66.6,Laptop,0,2.0,On-Campus
+A00967,U1049,Undergraduate,Sciences,R055,Data Science Vol.1,E-Book,Springer,2016,2025-11-05 20:28:00,44.1,Mobile,0,5.0,On-Campus
+A00968,U1090,Undergraduate,CSE,R044,Finance Vol.1,Journal,IEEE,2024,2025-03-13 11:59:00,12.0,Mobile,0,5.0,Remote
+A00969,U1226,Undergraduate,CSE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-03-21 13:10:00,77.6,Campus PC,0,3.0,On-Campus
+A00970,U1296,Researcher,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-23 18:58:00,2.6,Mobile,1,4.0,Remote
+A00971,U1020,Undergraduate, cse ,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-12-22 09:40:00,62.5,Campus PC,0,5.0,On-Campus
+A00972,U1272,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-23 09:13:00,49.0,Laptop,0,,On-Campus
+A00973,U1224,Postgraduate,CSE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-04-24 15:40:00,26.9,Campus PC,1,4.0,On-Campus
+A00974,U1024,Postgraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-02-27 11:45:00,26.5,Campus PC,1,4.0,On-Campus
+A00975,U1175,Undergraduate,ECE,R026,Physics Vol.2,E-Book,Wiley,2018,2025-10-18 11:21:00,,Laptop,0,1.0,Remote
+A00976,U1192,Faculty,Sciences,R048,Materials Vol.5,Journal,Springer,2017,2025-03-07 01:20:00,12.4,Campus PC,0,4.0,On-Campus
+A00977,U1100,Undergraduate,ece,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-07-16 13:50:00,73.9,Laptop,1,3.0,Remote
+A00978,U1526,Faculty,Management,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-12-20 12:09:00,26.0,Laptop,1,3.0,On-Campus
+A00979,U1050,Undergraduate,ECE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-01-03 04:00:00,12.2,Laptop,1,3.0,On-Campus
+A00980,U1404,Undergraduate,Civil,R008,AI Vol.5,Journal,Wiley,2023,2025-08-22 17:39:00,71.1,Mobile,1,4.0,On-Campus
+A00981,U1465,Postgraduate,Management,R001,JSTOR Vol.3,Database,Wiley,2023,2025-07-16 17:54:00,,Mobile,0,4.0,Remote
+A00982,U1564,Undergraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-10-27 07:30:00,36.5,Mobile,0,,On-Campus
+A00983,U1381,Undergraduate,Sciences,R071,JSTOR Vol.3,Database,Wiley,2009,2025-04-06 12:08:00,81.1,Laptop,0,3.0,Remote
+A00984,U1379,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-05-26 21:32:00,39.8,Mobile,0,5.0,On-Campus
+A00985,U1532,Postgraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-03-13 16:15:00,16.4,Laptop,1,3.0,On-Campus
+A00986,U1597,Faculty,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-17 14:49:00,39.8,Laptop,0,4.0,Remote
+A00987,U1147,FACULTY,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-10-19 15:36:00,13.3,Laptop,0,,On-Campus
+A00988,U1557,Researcher,Management,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-02-17 10:20:00,18.7,Campus PC,0,5.0,Remote
+A00989,U1323,Faculty,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-05-26 20:37:00,31.9,Campus PC,0,4.0,On-Campus
+A00990,U1068,Undergraduate,Civil,R007,Tutorial Vol.4,Video,Springer,2020,2025-11-05 21:40:00,47.4,Campus PC,0,4.0,Remote
+A00991,U1428,Undergraduate,Sciences,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-01-21 21:40:00,17.1,Laptop,0,5.0,On-Campus
+A00992,U1683,Faculty,Management,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-04-28 10:21:00,23.2,Mobile,1,5.0,Remote
+A00993,U1098,Researcher,Civil,R020,AI Vol.1,Journal,Springer,2007,2025-08-07 12:34:00,,Campus PC,0,4.0,On-Campus
+A00994,U1010,Researcher,ECE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-04-08 09:02:00,52.7,Mobile,0,4.0,Remote
+A00995,U1641,Postgraduate,Sciences,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-14 12:24:00,26.5,Mobile,0,5.0,On-Campus
+A00996,U1417,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-06-21 12:22:00,77.0,Mobile,0,5.0,Remote
+A00997,U1153,Researcher,CSE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-03-27 17:32:00,18.7,Laptop,1,5.0,Remote
+A00998,U1554,Researcher,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-23 10:57:00,17.6,Laptop,0,5.0,Remote
+A00999,U1275,Postgraduate,CSE,R020,AI Vol.1,Journal,Springer,2007,2025-09-23 21:57:00,61.8,Mobile,1,5.0,On-Campus
+A01000,U1232,Faculty,Mechanical,R014,SpringerLink Vol.3,Database,Springer,2022,2025-08-13 08:28:00,37.7,Laptop,0,5.0,On-Campus
+A01001,U1202,Postgraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-19 00:38:00,104.9,Mobile,0,2.0,Remote
+A01002,U1418,Researcher,Sciences,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-10-06 20:06:00,60.4,Mobile,0,5.0,On-Campus
+A01288,U1561,Postgraduate,Civil,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-10-13 18:15:00,25.0,Mobile,0,3.0,Remote
+A01004,U1253,Faculty,ECE,R006,Programming Vol.3,E-Book,NPTEL,2006,2025-10-06 13:41:00,,Mobile,1,4.0,On-Campus
+A01005,U1213,Undergraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-04-01 16:40:00,,Laptop,0,4.0,On-Campus
+A01006,U1042,Undergraduate,CSE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-10-24 10:57:00,30.4,Mobile,0,3.0,On-Campus
+A01007,U1534,Undergraduate,Management,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-03-23 09:27:00,23.5,Mobile,0,5.0,Remote
+A01008,U1005,Undergraduate,Mechanical,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-03-15 15:54:00,30.0,Mobile,0,4.0,On-Campus
+A01009,U1671,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-01 13:58:00,31.1,Laptop,0,3.0,On-Campus
+A01010,U1066,Researcher,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-03 17:34:00,17.3,Campus PC,1,4.0,Remote
+A01011,U1250,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-03-04 10:05:00,51.3,Laptop,0,3.0,On-Campus
+A01012,U1068,Faculty,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-21 17:22:00,71.6,Laptop,1,4.0,Remote
+A01013,U1256,Undergraduate,ece,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-06 19:45:00,41.9,Campus PC,1,4.0,On-Campus
+A01014,U1427,Undergraduate, cse ,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-02-08 09:34:00,34.4,Mobile,0,,On-Campus
+A01015,U1061,Postgraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-25 05:56:00,,Mobile,0,3.0,On-Campus
+A01016,U1368,Postgraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-25 14:48:00,31.7,Laptop,1,2.0,On-Campus
+A01017,U1540,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-22 19:03:00,33.9,Mobile,0,3.0,Remote
+A01110,U1442,Researcher,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-05-16 20:31:00,14.2,Laptop,0,4.0,On-Campus
+A01019,U1078,Faculty,Management,R049,Finance Vol.2,Journal,NPTEL,2011,2025-09-17 18:21:00,49.8,Laptop,1,5.0,On-Campus
+A01020,U1484,Postgraduate,Civil,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-07-06 14:49:00,19.7,Mobile,0,5.0,On-Campus
+A01021,U1130,Researcher,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-09-25 11:30:00,63.9,Laptop,1,5.0,Remote
+A01022,U1011,Postgraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-03 16:27:00,29.4,Laptop,0,3.0,Remote
+A01023,U1305,Postgraduate,CSE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-02-21 10:04:00,50.3,Mobile,0,2.0,On-Campus
+A01024,U1189,Undergraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-04-15 19:07:00,41.6,Campus PC,0,5.0,On-Campus
+A01025,U1019,Undergraduate,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-02-22 10:35:00,9.8,Laptop,0,4.0,On-Campus
+A01026,U1544,Undergraduate, cse ,R069,Data Science Vol.2,E-Book,IEEE,2007,invalid,,Mobile,0,2.0,Remote
+A01027,U1419,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-06-05 15:33:00,15.1,Mobile,0,4.0,On-Campus
+A01028,U1636,Postgraduate,CSE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-09-22 15:09:00,18.7,Mobile,0,4.0,On-Campus
+A00939,U1300,Undergraduate,Civil,R022,Scopus Vol.4,Database,Pearson,2016,2025-10-25 18:18:00,4.2,Laptop,0,4.0,Remote
+A01030,U1306,Postgraduate,CSE,R044,Finance Vol.1,Journal,IEEE,2024,2025-12-14 14:03:00,6.9,Mobile,0,1.0,On-Campus
+A01031,U1589,Undergraduate,Management,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-03-11 21:08:00,30.3,Mobile,0,4.0,Remote
+A01032,U1057,Undergraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-10 20:29:00,52.3,Campus PC,0,1.0,On-Campus
+A01033,U1253,Researcher,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-14 21:37:00,62.9,Campus PC,0,4.0,Remote
+A01034,U1559,Undergraduate,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-01-08 17:39:00,23.5,Laptop,0,5.0,On-Campus
+A01035,U1204,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-08 17:58:00,26.3,Laptop,0,5.0,On-Campus
+A01036,U1619,Undergraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-08 17:51:00,43.4,Laptop,0,4.0,On-Campus
+A01037,U1198,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-09-01 14:22:00,23.9,Laptop,0,1.0,On-Campus
+A01038,U1289,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-07-26 12:46:00,55.2,Campus PC,1,4.0,Remote
+A01039,U1628,Researcher,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-07 16:05:00,25.4,Laptop,0,3.0,On-Campus
+A01040,U1170,Postgraduate,CSE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-02-05 03:51:00,13.6,Laptop,0,5.0,On-Campus
+A01041,U1677,Postgraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-02-05 00:23:00,30.8,Campus PC,1,5.0,Remote
+A01042,U1030,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-02-28 20:45:00,8.2,Laptop,0,4.0,On-Campus
+A01043,U1186,Postgraduate,Sciences,R040,JSTOR Vol.3,Database,IEEE,2018,2025-09-14 06:58:00,30.5,Mobile,0,5.0,Remote
+A01044,U1413,Undergraduate,Management,R062,Programming Vol.4,E-Book,IEEE,2018,2025-04-10 16:42:00,34.4,Mobile,0,3.0,Remote
+A01045,U1415,Undergraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-12 17:55:00,15.2,Laptop,0,4.0,On-Campus
+A01046,U1636,Faculty,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-09-03 10:00:00,33.6,Mobile,0,5.0,Remote
+A01047,U1671,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-09 21:10:00,21.9,Mobile,0,3.0,Remote
+A00063,U1047,Undergraduate,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-02-09 16:17:00,22.9,,0,5.0,Remote
+A01049,U1461,Undergraduate,ece,R042,Finance Vol.1,Journal,Springer,2015,2025-11-23 21:32:00,7.2,Mobile,0,5.0,On-Campus
+A01050,U1222,Faculty,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-05-02 19:07:00,9.0,Campus PC,0,4.0,On-Campus
+A01051,U1563,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-10-12 11:43:00,67.9,Laptop,0,3.0,Remote
+A01052,U1450,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-23 09:03:00,21.3,Mobile,0,1.0,On-Campus
+A01053,U1016,Faculty,ECE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-09-24 12:59:00,999.0,Laptop,0,4.0,On-Campus
+A01054,U1582,Undergraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-12-15 14:09:00,23.3,Mobile,0,4.0,On-Campus
+A01055,U1251,Researcher,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-07 11:26:00,68.9,Laptop,0,4.0,Remote
+A01056,U1333,Undergraduate,ece,R037,Thermodynamics Vol.5,E-Book,Springer,2014,2025-08-10 23:49:00,14.8,Laptop,0,3.0,Remote
+A01057,U1340,Postgraduate,Civil,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-07 10:30:00,27.9,Mobile,0,4.0,Remote
+A01058,U1573,Researcher,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-04-19 20:44:00,18.6,Laptop,1,4.0,Remote
+A01059,U1187,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-09 09:42:00,50.0,Mobile,1,5.0,On-Campus
+A01060,U1274,Postgraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-18 23:56:00,33.7,Laptop,0,4.0,Remote
+A01061,U1027,Undergraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-12-19 10:27:00,27.2,Campus PC,0,4.0,On-Campus
+A01062,U1243,Postgraduate,ECE,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-07-27 14:58:00,10.0,Campus PC,0,5.0,On-Campus
+A01063,U1061,Faculty,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-01-11 16:31:00,87.9,Mobile,1,3.0,On-Campus
+A01064,U1408,Postgraduate,Sciences,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-08-27 09:53:00,23.8,Laptop,0,3.0,Remote
+A01065,U1625,Researcher,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-12 20:43:00,13.0,Laptop,0,2.0,On-Campus
+A01066,U1325,Postgraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-20 11:07:00,7.2,Campus PC,1,3.0,On-Campus
+A01067,U1638,Postgraduate,Mechanical,R054,ScienceDirect Vol.1,Database,,2024,2025-04-19 16:38:00,8.7,Mobile,0,5.0,On-Campus
+A01068,U1683,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-23 16:52:00,27.0,Laptop,1,3.0,On-Campus
+A01069,U1037,Postgraduate,Management,R005,Materials Vol.5,Journal,Pearson,2014,2025-03-14 17:07:00,50.5,Mobile,0,5.0,On-Campus
+A00297,U1643,Postgraduate,CSE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-11-15 21:29:00,75.0,Laptop,1,3.0,On-Campus
+A01071,U1369,POSTGRADUATE,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-10 09:06:00,7.6,Laptop,1,4.0,On-Campus
+A01072,U1269,Undergraduate,Civil,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-14 09:52:00,27.0,Laptop,0,4.0,On-Campus
+A01073,U1581,Undergraduate,ECE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-14 12:47:00,60.1,Mobile,0,3.0,Remote
+A01074,U1276,Postgraduate,ece,R001,JSTOR Vol.3,Database,Wiley,2023,2025-01-20 09:09:00,20.8,Campus PC,1,4.0,Remote
+A01075,U1038,Researcher,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-01-18 21:43:00,32.3,Laptop,1,4.0,Remote
+A01076,U1383,Undergraduate,Management,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-08-03 15:07:00,21.5,Campus PC,0,4.0,On-Campus
+A01077,U1141,Undergraduate,Sciences,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-04-23 17:34:00,37.0,Laptop,1,5.0,On-Campus
+A01078,U1248,Undergraduate,CSE,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-08-22 13:55:00,14.6,Campus PC,0,5.0,On-Campus
+A01079,U1351,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-06-03 11:12:00,0.8,Laptop,0,4.0,Remote
+A01080,U1506,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-27 15:10:00,10.5,Mobile,1,5.0,On-Campus
+A01081,U1194,Undergraduate,Mechanical,R044,Finance Vol.1,Journal,IEEE,2024,invalid,19.0,Mobile,0,2.0,On-Campus
+A01082,U1266,UNDERGRADUATE,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-09-03 13:22:00,25.2,Campus PC,1,3.0,Remote
+A01083,U1047,Undergraduate,Civil,R001,JSTOR Vol.3,Database,Wiley,2023,2025-01-14 14:02:00,19.5,Mobile,0,4.0,Remote
+A01084,U1268,Undergraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-11-24 15:27:00,19.2,Laptop,0,4.0,On-Campus
+A01085,U1406,Researcher,Mechanical,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-12-08 23:15:00,50.7,Laptop,0,4.0,Remote
+A01086,U1431,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-27 10:07:00,11.9,Mobile,0,4.0,On-Campus
+A01087,U1205,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-07-12 15:16:00,27.1,Mobile,1,5.0,On-Campus
+A01088,U1042,Undergraduate,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-07 09:01:00,8.1,Laptop,0,3.0,On-Campus
+A01089,U1404,Researcher,ECE,R026,Physics Vol.2,E-Book,Wiley,2018,2025-10-10 13:54:00,42.0,Laptop,0,5.0,Remote
+A01090,U1458,Researcher,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-09-15 18:59:00,31.7,Laptop,0,4.0,On-Campus
+A01091,U1059,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-20 10:22:00,86.8,Mobile,0,4.0,Remote
+A01092,U1353,Postgraduate,ECE,R044,Finance Vol.1,Journal,IEEE,2024,2025-06-26 16:52:00,11.6,Laptop,0,3.0,On-Campus
+A01093,U1066,Undergraduate,Civil,R049,Finance Vol.2,Journal,NPTEL,2011,2025-07-06 14:27:00,71.0,Mobile,0,3.0,Remote
+A01094,U1317,Postgraduate,Sciences,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-10-27 06:54:00,12.8,Laptop,0,4.0,Remote
+A01095,U1448,Undergraduate,ECE,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-09-15 22:10:00,,Mobile,0,5.0,Remote
+A01096,U1503,Faculty,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-04 14:17:00,9.2,Mobile,0,4.0,Remote
+A01097,U1499,Researcher,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-09-26 19:44:00,86.2,Campus PC,0,3.0,Remote
+A01098,U1530,Undergraduate,Mechanical,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-04-10 14:13:00,34.9,Mobile,0,5.0,Remote
+A01099,U1168,Undergraduate, cse ,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-18 22:49:00,35.1,Laptop,0,4.0,On-Campus
+A01100,U1592,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-20 11:25:00,13.8,Mobile,0,5.0,Remote
+A01101,U1244,Undergraduate,Sciences,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-01 14:24:00,3.0,Mobile,0,4.0,On-Campus
+A01102,U1262,Undergraduate,ece,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-06-07 19:27:00,,Mobile,0,4.0,On-Campus
+A01103,U1551,Undergraduate,ECE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-06-20 13:47:00,17.4,Campus PC,1,4.0,On-Campus
+A01104,U1228,Researcher,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-10 13:00:00,5.3,Laptop,0,4.0,On-Campus
+A01105,U1052,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-03-01 23:45:00,21.1,Mobile,1,4.0,On-Campus
+A01106,U1500,Faculty,Mechanical,R057,Data Science Vol.5,E-Book,McGraw Hill,2011,2025-08-01 16:46:00,27.1,Laptop,0,3.0,On-Campus
+A01107,U1463,Undergraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-24 18:49:00,,Laptop,0,,On-Campus
+A01108,U1407,Undergraduate,Civil,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-05 17:59:00,3.5,Laptop,1,5.0,Remote
+A01109,U1100,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-03 20:46:00,9.7,Campus PC,0,4.0,Remote
+A01110,U1442,Researcher,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-05-16 20:31:00,14.2,Laptop,0,4.0,On-Campus
+A01111,U1138,Undergraduate,CSE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-05-04 16:27:00,52.1,Laptop,0,5.0,Remote
+A01112,U1388,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-19 12:23:00,,Mobile,0,2.0,On-Campus
+A01113,U1355,Postgraduate,Mechanical,R028,Materials Vol.5,Journal,IEEE,2008,2025-10-16 03:49:00,33.6,Campus PC,0,3.0,On-Campus
+A01114,U1540,Postgraduate,ECE,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-04-19 17:23:00,20.8,Laptop,1,2.0,Remote
+A01115,U1683,Postgraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-14 20:34:00,54.2,Mobile,0,2.0,Remote
+A01116,U1133,Undergraduate,Mechanical,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-11-22 14:05:00,31.0,Campus PC,0,1.0,Remote
+A01117,U1080,Undergraduate,Mechanical,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-09-19 09:19:00,52.3,Campus PC,0,5.0,On-Campus
+A01118,U1388,Faculty,Sciences,R042,Finance Vol.1,Journal,Springer,2015,2025-06-12 11:15:00,34.7,Laptop,0,3.0,On-Campus
+A01134,U1368,Undergraduate,Civil,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-04-19 16:08:00,30.2,Mobile,0,2.0,On-Campus
+A01120,U1110,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-06-08 20:30:00,2.9,Laptop,0,5.0,Remote
+A01121,U1341,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-05-04 10:42:00,19.3,Campus PC,1,3.0,On-Campus
+A01122,U1285,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-07-01 17:25:00,45.3,Laptop,0,5.0,On-Campus
+A01123,U1222,Researcher,Mechanical,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-04-08 19:09:00,17.3,Mobile,0,4.0,On-Campus
+A01124,U1464,Postgraduate, cse ,R005,Materials Vol.5,Journal,Pearson,2014,2025-02-06 22:32:00,60.7,Mobile,0,5.0,Remote
+A01125,U1206,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-05-03 08:03:00,42.7,Mobile,1,4.0,On-Campus
+A01126,U1345,Researcher,Sciences,R048,Materials Vol.5,Journal,Springer,2017,2025-02-09 21:50:00,57.4,Mobile,0,4.0,Remote
+A01127,U1591,Postgraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-05-15 17:46:00,19.7,Laptop,0,3.0,On-Campus
+A01128,U1265,Undergraduate,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-08-05 19:13:00,12.3,Mobile,1,5.0,On-Campus
+A01129,U1014,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-11-08 06:15:00,10.8,Laptop,0,3.0,On-Campus
+A01130,U1619,Postgraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-01 15:01:00,36.8,Campus PC,0,5.0,On-Campus
+A01131,U1192,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-08-02 17:21:00,6.5,Laptop,1,3.0,Remote
+A01132,U1540,Postgraduate,Sciences,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-06-05 12:02:00,6.9,Mobile,0,4.0,Remote
+A01133,U1533,Postgraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-13 14:56:00,16.5,Campus PC,0,4.0,On-Campus
+A01134,U1368,Undergraduate,Civil,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-04-19 16:08:00,30.2,Mobile,0,2.0,On-Campus
+A01135,U1061,Researcher,ECE,R078,AI Vol.5,Journal,Springer,2017,2025-02-23 16:39:00,14.4,Campus PC,1,2.0,On-Campus
+A01136,U1665,Undergraduate,Sciences,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-03-18 05:34:00,51.6,Mobile,0,3.0,Remote
+A01137,U1476,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-18 14:14:00,58.0,Laptop,1,5.0,Remote
+A01138,U1297,Postgraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-27 10:48:00,1.7,Laptop,1,5.0,Remote
+A01139,U1597,Postgraduate,Mechanical,R062,Programming Vol.4,E-Book,IEEE,2018,2025-08-08 21:06:00,35.1,Laptop,0,3.0,On-Campus
+A01140,U1551,UNDERGRADUATE,Sciences,R040,JSTOR Vol.3,Database,IEEE,2018,2025-01-23 22:53:00,17.3,Laptop,0,4.0,On-Campus
+A01141,U1532,Postgraduate,Sciences,R040,JSTOR Vol.3,Database,IEEE,2018,2025-03-27 12:44:00,46.6,Mobile,1,2.0,Remote
+A01142,U1117,Faculty,Sciences,R005,Materials Vol.5,Journal,Pearson,2014,2025-02-16 10:38:00,35.9,Laptop,0,5.0,On-Campus
+A01143,U1442,Faculty,Civil,R049,Finance Vol.2,Journal,NPTEL,2011,2025-08-24 10:52:00,29.2,Mobile,0,5.0,Remote
+A01144,U1200,Faculty,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-04 15:24:00,23.8,Laptop,0,5.0,Remote
+A01145,U1054,Undergraduate,Mechanical,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-08-25 21:16:00,7.0,Laptop,1,5.0,Remote
+A01146,U1236,Undergraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-03-16 15:09:00,,Laptop,0,3.0,Remote
+A01147,U1072,Postgraduate,ECE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-07 06:55:00,9.6,Mobile,0,3.0,On-Campus
+A01148,U1074,Undergraduate,Management,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-11-02 05:24:00,71.5,Laptop,0,5.0,Remote
+A01149,U1508,Postgraduate,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-02-21 10:49:00,40.5,Laptop,0,3.0,On-Campus
+A01150,U1351,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-02-13 20:19:00,18.0,Mobile,1,2.0,Remote
+A01151,U1278,Undergraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-09 17:57:00,16.0,Laptop,0,3.0,On-Campus
+A01152,U1134,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-12-11 16:52:00,6.7,Mobile,1,5.0,Remote
+A01153,U1539,Undergraduate,ECE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-08-28 12:18:00,26.7,Mobile,1,4.0,Remote
+A01154,U1443,Undergraduate,Mechanical,R008,AI Vol.5,Journal,Wiley,2023,2025-08-12 21:29:00,6.4,Laptop,0,5.0,On-Campus
+A00808,U1237,Faculty,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-05 15:50:00,27.1,Laptop,0,5.0,On-Campus
+A01156,U1133,Postgraduate,Civil,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-02-08 20:13:00,31.2,Mobile,1,3.0,On-Campus
+A01157,U1086,Undergraduate,Management,R049,Finance Vol.2,Journal,NPTEL,2011,2025-12-05 21:01:00,25.5,Laptop,1,4.0,Remote
+A01158,U1086,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-20 15:17:00,27.8,Laptop,1,5.0,Remote
+A01159,U1017,Faculty,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-08-23 21:35:00,32.1,Mobile,0,3.0,On-Campus
+A01160,U1678,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-05-24 11:08:00,20.4,Mobile,1,5.0,Remote
+A01161,U1257,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-05-18 17:20:00,22.4,Laptop,0,4.0,Remote
+A01162,U1460,Undergraduate,ECE,R008,AI Vol.5,Journal,Wiley,2023,2025-11-22 08:55:00,76.2,Laptop,1,,Remote
+A01163,U1687,Postgraduate,CSE,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-03-12 15:04:00,50.1,Laptop,0,5.0,Remote
+A00979,U1050,Undergraduate,ECE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-01-03 04:00:00,12.2,Laptop,1,3.0,On-Campus
+A01165,U1224,Postgraduate,Management,R020,AI Vol.1,Journal,Springer,2007,2025-05-03 07:25:00,18.0,Laptop,1,5.0,Remote
+A01166,U1342,Researcher,Civil,R028,Materials Vol.5,Journal,IEEE,2008,2025-09-16 00:00:00,4.4,Campus PC,0,4.0,On-Campus
+A01167,U1324,Faculty,CSE,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-12-16 12:01:00,36.4,Mobile,0,5.0,Remote
+A01168,U1023,Undergraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-01 16:10:00,27.8,Mobile,1,5.0,On-Campus
+A01169,U1537,Undergraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-16 15:06:00,22.1,Mobile,1,,Remote
+A01170,U1402,Undergraduate,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-08-21 12:48:00,24.6,Mobile,0,3.0,Remote
+A01171,U1260,Undergraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-11 23:07:00,,Laptop,1,5.0,Remote
+A01172,U1390,Postgraduate,CSE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-03-16 22:31:00,-5.0,Campus PC,1,5.0,On-Campus
+A01173,U1514,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-09 09:42:00,50.2,Mobile,1,4.0,On-Campus
+A01174,U1010,Undergraduate,Management,R075,ScienceDirect Vol.5,Database,,2011,2025-09-08 14:37:00,3.3,Mobile,0,5.0,On-Campus
+A00120,U1675,Undergraduate,Civil,R055,Data Science Vol.1,E-Book,Springer,2016,2025-04-01 15:27:00,22.7,Campus PC,0,5.0,On-Campus
+A01176,U1602,Postgraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-10 19:21:00,62.4,Campus PC,1,4.0,Remote
+A01177,U1508,Postgraduate,Management,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-03-23 13:53:00,35.9,Mobile,1,4.0,On-Campus
+A01178,U1433,Researcher,CSE,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-10-27 19:04:00,34.8,Laptop,0,1.0,On-Campus
+A01179,U1063,Undergraduate,Sciences,R072,NPTEL Lecture Vol.4,Video,Elsevier,2020,2025-01-18 09:06:00,12.7,Campus PC,0,4.0,Remote
+A01180,U1521,Undergraduate,Mechanical,R078,AI Vol.5,Journal,Springer,2017,2025-09-18 12:51:00,14.2,Laptop,0,4.0,On-Campus
+A01181,U1525,Researcher,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-12-18 18:04:00,19.1,Laptop,1,2.0,On-Campus
+A01182,U1345,Postgraduate,Mechanical,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-01-14 17:11:00,8.4,Laptop,1,3.0,On-Campus
+A01183,U1407,Postgraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-03-12 20:10:00,13.4,Mobile,0,5.0,Remote
+A01184,U1432,Undergraduate,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-18 06:01:00,,Laptop,0,5.0,On-Campus
+A01185,U1084,Undergraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-01-22 10:07:00,18.3,Mobile,0,5.0,Remote
+A01186,U1180,Faculty,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-12 06:34:00,29.4,Laptop,1,3.0,On-Campus
+A01187,U1554,Postgraduate,ece,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-09-16 10:39:00,50.1,Campus PC,0,5.0,On-Campus
+A01188,U1681,Postgraduate,ECE,R010,Structural Design Vol.1,E-Book,McGraw Hill,2019,2025-08-14 00:04:00,29.2,Mobile,0,3.0,Remote
+A01189,U1189,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-08 15:56:00,35.0,Laptop,0,3.0,Remote
+A01190,U1280,Undergraduate,ece,R042,Finance Vol.1,Journal,Springer,2015,2025-09-09 16:05:00,6.3,Mobile,1,5.0,On-Campus
+A01191,U1640,Undergraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-03 17:41:00,49.5,Mobile,0,4.0,Remote
+A01192,U1113,Postgraduate,CSE,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-03-13 13:48:00,6.2,Laptop,0,5.0,Remote
+A01193,U1182,Undergraduate,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-08-20 00:31:00,17.3,Mobile,0,3.0,Remote
+A01194,U1039,Undergraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-20 18:29:00,,Laptop,1,3.0,On-Campus
+A01195,U1164,Undergraduate,Civil,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-09-28 06:06:00,4.4,Mobile,0,4.0,On-Campus
+A00989,U1323,Faculty,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-05-26 20:37:00,31.9,Campus PC,0,4.0,On-Campus
+A01197,U1243,Undergraduate,CSE,R022,Scopus Vol.4,Database,Pearson,2016,2025-04-22 03:51:00,,Laptop,0,3.0,Remote
+A01198,U1688,Undergraduate,Civil,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-02-23 16:20:00,999.0,Laptop,0,3.0,Remote
+A01199,U1624,Postgraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-03-13 21:02:00,31.0,Laptop,1,3.0,On-Campus
+A01200,U1627,Faculty,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-01-08 16:43:00,13.3,Laptop,1,5.0,On-Campus
+A01201,U1508,POSTGRADUATE,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-12-10 17:41:00,17.9,Mobile,0,2.0,On-Campus
+A01202,U1491,Faculty,Civil,R005,Materials Vol.5,Journal,Pearson,2014,2025-03-20 18:03:00,5.2,Campus PC,1,4.0,On-Campus
+A01203,U1356,Undergraduate,CSE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-10-25 09:03:00,19.4,Mobile,0,,Remote
+A01204,U1693,Researcher,Civil,R008,AI Vol.5,Journal,Wiley,2023,2025-03-18 18:06:00,25.2,Mobile,1,,On-Campus
+A01205,U1066,Faculty,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-04-15 21:03:00,36.0,Laptop,0,4.0,Remote
+A01206,U1505,Undergraduate,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-05-19 22:36:00,42.5,Laptop,0,4.0,On-Campus
+A01207,U1098,Postgraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,invalid,35.3,Laptop,1,5.0,Remote
+A01208,U1237,UNDERGRADUATE,ECE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-10-18 13:36:00,12.2,Campus PC,1,3.0,Remote
+A01209,U1178,Undergraduate,CSE,R061,NPTEL Lecture Vol.5,Video,Elsevier,2015,2025-12-02 19:10:00,9.5,Laptop,1,5.0,On-Campus
+A01210,U1420,UNDERGRADUATE,ece,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-11-27 16:58:00,40.6,Mobile,0,2.0,Remote
+A01211,U1551,Undergraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-25 11:43:00,4.3,,1,4.0,Remote
+A01212,U1055,Researcher,Civil,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-10-15 10:22:00,82.7,Mobile,1,4.0,Remote
+A01213,U1421,Undergraduate,Management,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-11 09:25:00,14.3,Laptop,0,3.0,On-Campus
+A01214,U1155,Postgraduate, cse ,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-11-21 15:03:00,53.9,Mobile,0,2.0,On-Campus
+A01215,U1053,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,invalid,16.4,Laptop,0,2.0,On-Campus
+A01216,U1292,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-04-20 02:32:00,37.6,Laptop,0,,Remote
+A01217,U1406,Undergraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-03-15 06:01:00,9.8,Laptop,1,4.0,On-Campus
+A01218,U1141,Undergraduate,ece,R040,JSTOR Vol.3,Database,IEEE,2018,2025-01-07 21:38:00,26.3,Mobile,0,3.0,Remote
+A01219,U1272,Postgraduate,ECE,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-04-03 07:22:00,5.5,Mobile,0,5.0,On-Campus
+A01220,U1667,Researcher,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-11-08 07:08:00,32.1,Campus PC,0,5.0,Remote
+A01221,U1242,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-15 14:32:00,9.7,Laptop,1,3.0,On-Campus
+A01222,U1696,Researcher,ECE,R050,Chemistry Vol.3,Journal,IEEE,2005,2025-12-12 11:33:00,11.0,Laptop,0,3.0,On-Campus
+A01223,U1583,Postgraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-02-15 22:44:00,18.7,Laptop,1,4.0,On-Campus
+A01224,U1259,Postgraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-08-08 21:11:00,21.6,Campus PC,0,,Remote
+A01225,U1403,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-27 14:32:00,36.1,Mobile,0,4.0,Remote
+A01226,U1496,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-08-11 14:50:00,33.7,Campus PC,1,2.0,On-Campus
+A01227,U1325,Faculty,ECE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-04-24 13:16:00,28.2,Mobile,0,5.0,On-Campus
+A01228,U1285,Postgraduate,Management,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-11 05:50:00,45.6,Campus PC,1,4.0,Remote
+A01229,U1230,Undergraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-13 12:43:00,33.1,Mobile,0,3.0,On-Campus
+A01230,U1097,Faculty,Management,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-03-17 09:25:00,34.7,Mobile,0,,On-Campus
+A01231,U1017,Undergraduate,Sciences,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-07-08 08:52:00,10.9,Mobile,0,5.0,Remote
+A01232,U1235,Postgraduate,Management,R020,AI Vol.1,Journal,Springer,2007,2025-09-07 16:58:00,47.9,Campus PC,1,4.0,On-Campus
+A01233,U1557,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-02-11 08:14:00,44.2,Campus PC,0,,On-Campus
+A01234,U1163,Researcher,ECE,R044,Finance Vol.1,Journal,IEEE,2024,2025-11-23 08:58:00,29.2,Mobile,0,4.0,On-Campus
+A01235,U1125,Undergraduate,Civil,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-07-05 15:00:00,43.2,Mobile,0,3.0,Remote
+A01236,U1229,Undergraduate,Mechanical,R046,Programming Vol.5,E-Book,Wiley,2015,2025-10-13 14:07:00,24.9,Mobile,1,4.0,On-Campus
+A01237,U1419,Postgraduate,ECE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-09-19 09:02:00,65.5,Mobile,1,3.0,Remote
+A01238,U1150,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-09-20 00:22:00,-5.0,Laptop,1,4.0,On-Campus
+A01239,U1154,Researcher,Sciences,R044,Finance Vol.1,Journal,IEEE,2024,2025-09-13 10:56:00,24.3,Mobile,0,5.0,Remote
+A01240,U1078,Postgraduate,Mechanical,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-11-03 11:36:00,33.3,Campus PC,0,5.0,On-Campus
+A01241,U1232,Undergraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-08-01 20:36:00,74.0,Campus PC,1,5.0,On-Campus
+A01242,U1152,Undergraduate,Sciences,R009,JSTOR Vol.1,Database,IEEE,2014,2025-04-14 21:05:00,16.8,Mobile,1,,On-Campus
+A01243,U1581,Researcher,CSE,R054,ScienceDirect Vol.1,Database,Pearson,2024,2025-02-23 14:30:00,31.8,Laptop,1,,On-Campus
+A01244,U1634,Postgraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-08-01 14:22:00,17.8,Campus PC,1,4.0,On-Campus
+A01245,U1259,Faculty,Management,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-25 18:28:00,24.3,Campus PC,1,3.0,Remote
+A00888,U1577,Postgraduate,Sciences,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-04-14 18:14:00,20.2,Mobile,0,4.0,Remote
+A01247,U1061,Researcher,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-01-01 10:12:00,34.1,Mobile,0,5.0,Remote
+A01248,U1227,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-08-10 08:57:00,25.8,Mobile,1,4.0,On-Campus
+A01249,U1324,Postgraduate,CSE,R071,JSTOR Vol.3,Database,Wiley,2009,2025-03-07 14:33:00,42.6,Laptop,0,2.0,Remote
+A01250,U1369,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-08-27 16:24:00,50.3,Laptop,0,4.0,On-Campus
+A01251,U1212,Undergraduate,Mechanical,R008,AI Vol.5,Journal,Wiley,2023,2025-10-16 09:04:00,55.1,Laptop,0,5.0,Remote
+A01252,U1248,Researcher,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-10-10 12:45:00,18.3,Laptop,0,4.0,Remote
+A01253,U1198,Researcher,CSE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-08 12:28:00,33.3,Laptop,1,3.0,On-Campus
+A01254,U1362,Undergraduate,CSE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-08-16 11:23:00,57.4,Mobile,1,4.0,On-Campus
+A01255,U1487,Researcher,CSE,R040,JSTOR Vol.3,Database,IEEE,2018,2025-08-01 15:40:00,-5.0,Laptop,0,5.0,Remote
+A01256,U1030,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-07-08 17:07:00,27.8,Campus PC,0,2.0,On-Campus
+A01257,U1335,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-05 15:31:00,13.9,Mobile,0,4.0,Remote
+A01258,U1453,Undergraduate,Civil,R062,Programming Vol.4,E-Book,IEEE,2018,2025-03-18 10:51:00,73.4,Mobile,1,5.0,Remote
+A01259,U1470,Undergraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-12-19 08:27:00,,Campus PC,0,5.0,On-Campus
+A01260,U1394,Undergraduate,Sciences,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-14 20:00:00,37.1,Laptop,0,3.0,On-Campus
+A01261,U1367,Undergraduate,Civil,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-10-04 15:13:00,36.7,Laptop,0,5.0,On-Campus
+A01262,U1476,Undergraduate,Civil,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-08-11 07:03:00,15.0,Campus PC,0,3.0,Remote
+A01263,U1264,Postgraduate,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-03-24 11:30:00,61.2,Laptop,0,2.0,On-Campus
+A01264,U1397,Faculty,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-06 20:21:00,20.9,Campus PC,1,2.0,On-Campus
+A01265,U1223,Postgraduate,Management,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-02-05 19:07:00,16.1,Campus PC,0,4.0,On-Campus
+A01266,U1306,Undergraduate,Sciences,R046,Programming Vol.5,E-Book,Wiley,2015,2025-10-04 21:41:00,52.0,Mobile,0,1.0,Remote
+A01267,U1086,Postgraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-23 17:10:00,19.4,Laptop,0,5.0,Remote
+A01268,U1245,Undergraduate,Mechanical,R042,Finance Vol.1,Journal,Springer,2015,2025-02-04 14:20:00,16.6,Mobile,0,5.0,Remote
+A01269,U1099,Postgraduate,CSE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-02-17 14:59:00,44.2,Laptop,0,1.0,Remote
+A01270,U1158,Postgraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-28 10:03:00,10.2,Laptop,1,5.0,Remote
+A01271,U1293,Undergraduate,Mechanical,R014,SpringerLink Vol.3,Database,Springer,2022,2025-04-18 17:14:00,37.4,Laptop,0,5.0,Remote
+A01272,U1350,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-11-12 16:19:00,28.0,Campus PC,1,1.0,On-Campus
+A01273,U1659,Faculty,Management,R061,NPTEL Lecture Vol.5,Video,Elsevier,2015,2025-10-06 09:30:00,41.8,Laptop,0,5.0,On-Campus
+A01274,U1018,Researcher,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-01 21:14:00,34.8,Laptop,1,,Remote
+A01275,U1628,Postgraduate,Mechanical,R071,JSTOR Vol.3,Database,Wiley,2009,2025-04-05 13:58:00,102.2,Laptop,0,5.0,On-Campus
+A01276,U1229,Researcher,Civil,R027,Construction Vol.4,Journal,NPTEL,2018,2025-09-27 06:00:00,29.8,Laptop,0,4.0,On-Campus
+A01277,U1506,Researcher,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-11-05 12:56:00,19.4,Mobile,0,5.0,Remote
+A01278,U1474,Undergraduate,ECE,R076,PhD Thesis Vol.1,Thesis,Pearson,2016,2025-02-01 21:32:00,,Laptop,0,5.0,Remote
+A01279,U1679,Postgraduate,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-04-23 21:02:00,34.5,Laptop,0,3.0,On-Campus
+A01280,U1076,Undergraduate,Civil,R020,AI Vol.1,Journal,Springer,2007,2025-03-12 15:06:00,70.9,Mobile,1,,On-Campus
+A01281,U1677,Undergraduate,CSE,R028,Materials Vol.5,Journal,IEEE,2008,2025-05-10 22:06:00,39.0,Laptop,0,4.0,On-Campus
+A01282,U1044,Undergraduate,CSE,R049,Finance Vol.2,Journal,NPTEL,2011,2025-10-21 21:17:00,14.4,Laptop,1,4.0,On-Campus
+A01283,U1614,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-15 20:19:00,189.9,Mobile,1,3.0,On-Campus
+A01284,U1456,Postgraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-08-26 20:38:00,49.0,Campus PC,0,3.0,On-Campus
+A01285,U1337,Undergraduate,CSE,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-04-14 13:18:00,13.7,Mobile,1,5.0,Remote
+A01286,U1278,Undergraduate,Mechanical,R020,AI Vol.1,Journal,Springer,2007,2025-03-20 19:43:00,11.0,Laptop,0,5.0,On-Campus
+A01287,U1065,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-04-25 16:17:00,9.4,Laptop,0,3.0,On-Campus
+A01288,U1561,Postgraduate,Civil,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-10-13 18:15:00,25.0,Mobile,0,3.0,Remote
+A01289,U1509,Researcher,CSE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-08-08 10:16:00,999.0,Laptop,1,2.0,On-Campus
+A01290,U1656,Undergraduate,CSE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-05-28 19:19:00,15.9,Mobile,0,2.0,On-Campus
+A01291,U1511,Undergraduate,Mechanical,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-10-07 22:50:00,8.2,Mobile,0,4.0,On-Campus
+A01292,U1669,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-02 12:14:00,11.2,Laptop,0,2.0,Remote
+A01293,U1620,Undergraduate,CSE,R051,NPTEL Lecture Vol.5,Video,,2007,2025-04-17 23:16:00,39.5,Mobile,0,5.0,On-Campus
+A01294,U1297,Undergraduate,Mechanical,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-03-28 13:57:00,21.1,Campus PC,0,3.0,On-Campus
+A01295,U1492,Undergraduate,Management,R009,JSTOR Vol.1,Database,IEEE,2014,2025-12-03 10:39:00,12.2,Laptop,0,1.0,On-Campus
+A01296,U1185,Undergraduate,Civil,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-09-24 08:11:00,27.9,Mobile,1,5.0,Remote
+A00036,U1077,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-07-09 22:24:00,18.9,Mobile,0,3.0,On-Campus
+A01298,U1426,Faculty,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-01-27 16:10:00,33.9,Laptop,0,3.0,Remote
+A01299,U1308,Undergraduate,Sciences,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-03-12 12:09:00,27.2,Laptop,1,2.0,Remote
+A01300,U1439,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-09-08 17:26:00,24.4,Laptop,1,4.0,On-Campus
+A01301,U1194,Postgraduate,Civil,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-05-15 12:41:00,54.7,Campus PC,0,4.0,On-Campus
+A01302,U1435,Researcher,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-11-04 14:11:00,11.6,Mobile,0,5.0,On-Campus
+A01303,U1332,Undergraduate,CSE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-24 20:45:00,22.2,Mobile,0,4.0,On-Campus
+A01304,U1225,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-06-19 18:09:00,5.0,Campus PC,1,5.0,On-Campus
+A01305,U1682,Postgraduate,Management,R042,Finance Vol.1,Journal,Springer,2015,2025-10-14 19:46:00,20.2,Mobile,0,4.0,On-Campus
+A01306,U1044,Undergraduate,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-15 16:05:00,29.3,Laptop,0,5.0,Remote
+A01307,U1530,Postgraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-06-20 23:27:00,43.9,Laptop,0,4.0,Remote
+A01308,U1147,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-15 11:38:00,5.2,Laptop,0,4.0,On-Campus
+A01309,U1155,Undergraduate,Civil,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-11-24 11:15:00,28.7,Laptop,0,4.0,On-Campus
+A01310,U1108,Undergraduate,CSE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-04-26 08:36:00,77.4,Campus PC,1,4.0,On-Campus
+A01311,U1071,Postgraduate,Sciences,R014,SpringerLink Vol.3,Database,Springer,2022,2025-11-27 16:41:00,35.6,Mobile,0,1.0,On-Campus
+A01312,U1086,Undergraduate,Management,R040,JSTOR Vol.3,Database,IEEE,2018,2025-02-18 17:39:00,9.9,Laptop,0,4.0,On-Campus
+A01313,U1582,Undergraduate,Mechanical,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-09-21 19:23:00,20.2,Laptop,1,3.0,On-Campus
+A01314,U1648,UNDERGRADUATE,ECE,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-10-09 12:46:00,36.3,Mobile,0,4.0,On-Campus
+A01315,U1409,Postgraduate,ECE,R023,Finance Vol.2,Journal,Pearson,2005,2025-08-02 01:43:00,16.4,Campus PC,0,2.0,Remote
+A01316,U1009,Undergraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-12 17:19:00,30.9,Laptop,0,1.0,On-Campus
+A01317,U1605,Postgraduate,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-25 23:44:00,29.7,Mobile,1,,On-Campus
+A01318,U1421,Postgraduate,Mechanical,R044,Finance Vol.1,Journal,IEEE,2024,2025-03-04 12:55:00,24.7,Campus PC,0,3.0,On-Campus
+A01319,U1364,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-03-16 10:49:00,9.0,Campus PC,1,1.0,On-Campus
+A01320,U1663,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-06 11:43:00,15.1,Mobile,0,3.0,On-Campus
+A01321,U1286,Faculty,CSE,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-08-13 14:45:00,82.2,Laptop,0,4.0,Remote
+A01322,U1252,Undergraduate,Mechanical,R058,Chemistry Vol.2,Journal,NPTEL,2024,2025-06-05 11:48:00,19.3,Mobile,0,4.0,On-Campus
+A01323,U1545,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-21 13:17:00,21.0,Mobile,0,5.0,On-Campus
+A01324,U1368,Undergraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-23 17:43:00,20.9,Mobile,0,5.0,Remote
+A01325,U1501,Undergraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-22 13:11:00,43.2,Campus PC,1,3.0,On-Campus
+A01326,U1487,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-06-20 14:21:00,21.7,Mobile,0,4.0,On-Campus
+A01327,U1587,Faculty,ECE,R012,AI Vol.3,Journal,Taylor & Francis,2008,2025-05-07 05:56:00,25.1,Mobile,0,4.0,Remote
+A01328,U1222,Faculty,Sciences,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-03-15 21:16:00,28.7,Laptop,1,4.0,On-Campus
+A01329,U1050,Undergraduate,Management,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-09-03 14:50:00,46.3,Laptop,0,4.0,Remote
+A01330,U1334,Undergraduate,Mechanical,R044,Finance Vol.1,Journal,IEEE,2024,2025-06-11 12:25:00,25.2,Mobile,0,,On-Campus
+A01331,U1453,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-15 08:12:00,27.1,Mobile,0,4.0,Remote
+A01332,U1571,Undergraduate,Sciences,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-12-19 17:05:00,17.0,Laptop,0,4.0,On-Campus
+A01333,U1186,Undergraduate,Management,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-10-03 20:32:00,31.4,Laptop,1,,Remote
+A01334,U1521,Researcher,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-23 05:27:00,37.5,Laptop,1,3.0,Remote
+A01335,U1582,Faculty,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-10-13 09:30:00,39.1,Mobile,0,5.0,Remote
+A01336,U1565,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-11-25 09:02:00,74.5,Laptop,1,5.0,Remote
+A01337,U1565,Postgraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-15 17:16:00,14.3,Laptop,0,,Remote
+A01338,U1691,Postgraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-16 21:00:00,25.9,Mobile,1,5.0,On-Campus
+A01403,U1657,Undergraduate,CSE,R042,Finance Vol.1,Journal,,2015,2025-12-26 23:12:00,3.3,Laptop,0,4.0,Remote
+A01340,U1259,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-23 13:55:00,66.4,Laptop,0,4.0,On-Campus
+A01341,U1305,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-05 19:09:00,40.1,Mobile,0,2.0,On-Campus
+A01342,U1522,Postgraduate,ECE,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-02-15 19:41:00,6.9,Mobile,1,5.0,On-Campus
+A01343,U1165,Undergraduate,Sciences,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-01 11:00:00,16.0,Campus PC,0,4.0,Remote
+A01344,U1421,Postgraduate,Sciences,R026,Physics Vol.2,E-Book,Wiley,2018,2025-10-14 09:33:00,20.0,Laptop,0,3.0,Remote
+A01345,U1400,Undergraduate,CSE,R056,Signal Processing Vol.5,Journal,Wiley,2021,2025-10-23 13:55:00,7.8,Laptop,0,4.0,Remote
+A01346,U1466,Postgraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-04-25 19:20:00,27.3,Mobile,0,4.0,On-Campus
+A01347,U1294,Faculty,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-03-08 18:11:00,17.6,Laptop,0,2.0,Remote
+A01348,U1517,Undergraduate,Civil,R051,NPTEL Lecture Vol.5,Video,Pearson,2007,2025-06-11 18:34:00,76.5,Laptop,0,5.0,Remote
+A01349,U1050,Undergraduate,Mechanical,R032,Signal Processing Vol.2,Journal,McGraw Hill,2018,2025-08-16 20:16:00,31.2,Campus PC,1,3.0,Remote
+A01350,U1524,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-11-12 11:53:00,19.5,Laptop,0,4.0,Remote
+A01351,U1568,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-11-05 12:50:00,12.2,Laptop,0,4.0,On-Campus
+A01352,U1620,Postgraduate,Mechanical,R007,Tutorial Vol.4,Video,Springer,2020,2025-11-09 05:39:00,24.4,Mobile,0,2.0,On-Campus
+A01353,U1645,Postgraduate,Sciences,R076,PhD Thesis Vol.1,Thesis,,2016,2025-10-12 21:38:00,,Laptop,0,5.0,Remote
+A01354,U1244,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-12-15 16:36:00,22.0,Campus PC,0,4.0,Remote
+A01355,U1032,Faculty,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-07-26 12:44:00,24.6,Laptop,0,4.0,Remote
+A01356,U1457,Undergraduate,CSE,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-01-16 07:27:00,50.3,Laptop,0,4.0,Remote
+A01357,U1063,Postgraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-02-11 18:58:00,30.6,Campus PC,0,5.0,Remote
+A01358,U1196,Undergraduate,CSE,R020,AI Vol.1,Journal,Springer,2007,2025-05-19 19:20:00,42.7,Campus PC,0,5.0,Remote
+A01359,U1491,Undergraduate,Management,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-04-22 18:00:00,32.7,Mobile,0,2.0,Remote
+A01360,U1416,Undergraduate,ECE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-03-13 10:41:00,31.5,Mobile,1,4.0,Remote
+A01361,U1424,Faculty,ECE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-11-14 21:39:00,6.6,Laptop,0,4.0,On-Campus
+A01362,U1525,Faculty,ECE,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-03-07 19:58:00,10.9,Campus PC,1,5.0,On-Campus
+A01363,U1115,Faculty,Mechanical,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-12-25 17:23:00,28.5,Laptop,0,5.0,On-Campus
+A01364,U1553,Undergraduate,Management,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-10-25 17:25:00,13.1,Mobile,0,4.0,On-Campus
+A01365,U1410,Undergraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-09-05 21:33:00,24.5,Laptop,0,5.0,Remote
+A01366,U1294,Postgraduate,CSE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-09-10 21:23:00,10.1,Mobile,0,4.0,Remote
+A01367,U1324,Postgraduate,ECE,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-04-08 16:47:00,50.6,Mobile,0,3.0,On-Campus
+A01368,U1356,Undergraduate,CSE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-09-26 14:25:00,14.3,Mobile,1,,On-Campus
+A01369,U1385,Faculty,Mechanical,R040,JSTOR Vol.3,Database,IEEE,2018,2025-03-02 13:47:00,12.2,Mobile,1,4.0,On-Campus
+A01370,U1233,Undergraduate,Sciences,R040,JSTOR Vol.3,Database,IEEE,2018,2025-11-06 20:25:00,8.3,Laptop,0,4.0,Remote
+A01371,U1156,Undergraduate,Sciences,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-09 17:13:00,38.9,Mobile,1,4.0,Remote
+A01372,U1118,Faculty,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-16 07:59:00,24.4,Mobile,0,5.0,On-Campus
+A01373,U1238,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-07 09:31:00,49.4,Laptop,0,5.0,On-Campus
+A01374,U1182,Undergraduate,Mechanical,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-09-16 21:42:00,17.1,Mobile,1,,On-Campus
+A01375,U1361,Postgraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-06-21 21:35:00,10.6,Laptop,0,4.0,On-Campus
+A01376,U1638,Researcher,Mechanical,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-09-24 22:21:00,-5.0,Mobile,0,5.0,Remote
+A01377,U1075,Undergraduate,Civil,R001,JSTOR Vol.3,Database,Wiley,2023,2025-03-03 14:58:00,55.6,Mobile,0,3.0,Remote
+A01378,U1216,Postgraduate,Management,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-09-04 19:22:00,6.4,Laptop,0,5.0,On-Campus
+A01379,U1034,Undergraduate, cse ,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-04-03 20:59:00,30.2,Mobile,0,4.0,On-Campus
+A01380,U1682,Undergraduate,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-26 12:25:00,32.2,Mobile,0,3.0,On-Campus
+A01381,U1490,Undergraduate,Mechanical,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-03-19 09:01:00,61.3,Mobile,0,5.0,On-Campus
+A01382,U1169,UNDERGRADUATE,Mechanical,R047,IEEE Xplore Vol.1,Database,IEEE,2015,2025-04-15 23:02:00,13.5,Mobile,1,4.0,On-Campus
+A01383,U1289,Undergraduate,Civil,R069,Data Science Vol.2,E-Book,IEEE,2007,2025-04-23 04:58:00,6.0,Mobile,1,3.0,On-Campus
+A01384,U1506,Undergraduate,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-06-17 17:31:00,18.4,Mobile,0,3.0,On-Campus
+A01385,U1670,Postgraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-03-07 17:23:00,42.3,Mobile,0,5.0,Remote
+A01386,U1401,Postgraduate,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-03-15 18:48:00,25.5,Mobile,0,5.0,On-Campus
+A01387,U1189,Postgraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-08-20 11:37:00,34.5,Campus PC,0,4.0,Remote
+A01388,U1487,Faculty,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-02-02 18:39:00,11.2,Mobile,0,2.0,On-Campus
+A01389,U1480,Undergraduate,ECE,R020,AI Vol.1,Journal,Springer,2007,2025-09-17 10:41:00,21.1,Mobile,0,2.0,On-Campus
+A01390,U1450,Undergraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-14 20:11:00,26.2,Laptop,1,4.0,On-Campus
+A01391,U1032,Undergraduate,CSE,R043,Structural Design Vol.1,E-Book,McGraw Hill,2007,2025-05-02 10:05:00,7.3,Mobile,0,4.0,On-Campus
+A01392,U1494,Postgraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-08 18:43:00,26.1,Laptop,0,4.0,On-Campus
+A01393,U1013,Undergraduate,Mechanical,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-02-13 19:01:00,19.7,Mobile,0,3.0,Remote
+A01394,U1633,Undergraduate,Management,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-01-10 10:43:00,114.8,Laptop,1,4.0,Remote
+A01395,U1617,Undergraduate,Management,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-09-09 11:07:00,24.8,Campus PC,0,4.0,On-Campus
+A01396,U1394,Undergraduate,Civil,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-19 19:15:00,,Mobile,1,,On-Campus
+A01397,U1452,Researcher,Mechanical,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-10-12 08:42:00,34.3,Mobile,1,3.0,On-Campus
+A01398,U1047,Postgraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-14 10:37:00,22.8,Laptop,0,4.0,Remote
+A01399,U1612,Undergraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-23 15:46:00,57.7,Campus PC,0,4.0,On-Campus
+A01400,U1189,Postgraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-05-03 21:36:00,9.9,Laptop,0,4.0,On-Campus
+A01401,U1183,Postgraduate,Civil,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-11 16:02:00,18.1,Laptop,0,2.0,Remote
+A01402,U1495,Undergraduate,Mechanical,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-03-03 13:50:00,43.9,,0,3.0,Remote
+A01403,U1657,Undergraduate,CSE,R042,Finance Vol.1,Journal,,2015,2025-12-26 23:12:00,3.3,Laptop,0,4.0,Remote
+A01404,U1345,Postgraduate,ECE,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-01-06 15:08:00,24.3,Mobile,1,3.0,On-Campus
+A01405,U1355,Undergraduate,Sciences,R020,AI Vol.1,Journal,Springer,2007,2025-10-23 14:52:00,24.1,Laptop,0,,On-Campus
+A01406,U1383,Undergraduate,Civil,R042,Finance Vol.1,Journal,Springer,2015,2025-09-06 14:11:00,29.5,Mobile,0,4.0,On-Campus
+A01407,U1203,Undergraduate,Civil,R028,Materials Vol.5,Journal,IEEE,2008,2025-09-10 12:32:00,21.3,Laptop,0,3.0,Remote
+A01408,U1417,Postgraduate,ECE,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-09-18 12:29:00,42.8,Mobile,0,4.0,Remote
+A01409,U1672,Researcher,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-24 18:46:00,14.0,Laptop,0,4.0,On-Campus
+A01410,U1267,Postgraduate,Mechanical,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-05 05:02:00,-5.0,Laptop,0,3.0,Remote
+A01411,U1541,Undergraduate,ECE,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-01-06 18:06:00,10.9,Campus PC,0,5.0,On-Campus
+A01412,U1541,Undergraduate,CSE,R027,Construction Vol.4,Journal,NPTEL,2018,2025-08-25 10:24:00,31.1,Campus PC,0,4.0,Remote
+A01413,U1595,Postgraduate,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-04-10 13:28:00,53.5,Laptop,0,5.0,On-Campus
+A01414,U1506,Faculty,Civil,R015,IEEE Xplore Vol.2,Database,Taylor & Francis,2022,2025-02-06 09:47:00,13.1,Laptop,1,3.0,On-Campus
+A01415,U1645,Researcher,ECE,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-03-21 16:36:00,15.7,Mobile,0,5.0,On-Campus
+A01416,U1500,Faculty,ECE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-03 19:08:00,,Campus PC,1,5.0,Remote
+A01417,U1683,Undergraduate,ECE,R022,Scopus Vol.4,Database,Pearson,2016,2025-02-25 13:58:00,28.2,Laptop,0,2.0,On-Campus
+A01418,U1500,Postgraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-01-25 09:27:00,6.1,Laptop,1,4.0,On-Campus
+A01419,U1585,Faculty,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-11-24 10:57:00,28.9,Laptop,0,4.0,Remote
+A01420,U1623,Postgraduate,Mechanical,R005,Materials Vol.5,Journal,Pearson,2014,2025-04-09 20:59:00,38.2,Laptop,0,4.0,Remote
+A01421,U1688,Postgraduate,Mechanical,R019,ScienceDirect Vol.4,Database,Pearson,2014,2025-12-04 11:03:00,48.8,Campus PC,0,4.0,Remote
+A01422,U1416,Undergraduate,CSE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-12-12 19:30:00,30.6,Campus PC,1,5.0,Remote
+A01423,U1497,Postgraduate,Civil,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-10 12:25:00,35.0,Laptop,0,5.0,Remote
+A01424,U1676,Undergraduate,Sciences,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-09-27 10:29:00,67.3,Laptop,0,5.0,Remote
+A01425,U1266,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-08-18 19:18:00,44.7,Campus PC,1,5.0,On-Campus
+A01426,U1083,Faculty,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-09-27 15:33:00,20.7,Laptop,0,5.0,On-Campus
+A01427,U1618,Researcher,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-22 04:29:00,22.7,Laptop,0,5.0,On-Campus
+A01428,U1442,FACULTY,Mechanical,R023,Finance Vol.2,Journal,Pearson,2005,2025-03-21 22:11:00,52.1,Laptop,1,,On-Campus
+A01429,U1299,Undergraduate,CSE,R005,Materials Vol.5,Journal,Pearson,2014,2025-02-04 09:17:00,30.2,Laptop,0,5.0,On-Campus
+A01430,U1501,Undergraduate,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-02 13:08:00,27.3,Laptop,1,4.0,On-Campus
+A01431,U1022,Undergraduate,Management,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-12-02 13:50:00,20.3,Laptop,1,2.0,On-Campus
+A01432,U1334,Faculty,Sciences,R059,Structural Design Vol.1,E-Book,IEEE,2014,2025-09-17 15:40:00,50.9,Campus PC,1,4.0,Remote
+A01433,U1185,Postgraduate, cse ,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-06 19:23:00,13.7,Campus PC,1,2.0,Remote
+A01434,U1201,Researcher,Civil,R014,SpringerLink Vol.3,Database,Springer,2022,2025-12-28 00:23:00,,Laptop,0,,On-Campus
+A01435,U1678,Undergraduate,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-09-04 21:04:00,50.8,Mobile,0,4.0,Remote
+A01436,U1385,Postgraduate,Mechanical,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-27 17:17:00,,Laptop,0,4.0,On-Campus
+A01437,U1098,Postgraduate,ECE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-19 22:55:00,-5.0,Laptop,1,3.0,On-Campus
+A01438,U1255,Undergraduate,ECE,R041,AI Vol.4,Journal,McGraw Hill,2006,2025-04-03 20:01:00,24.3,Laptop,0,4.0,On-Campus
+A01439,U1169,Researcher,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-01-02 21:08:00,20.5,Campus PC,1,3.0,On-Campus
+A01440,U1636,Postgraduate,Management,R049,Finance Vol.2,Journal,NPTEL,2011,2025-07-12 17:50:00,22.0,Mobile,0,4.0,On-Campus
+A01441,U1203,Undergraduate,CSE,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-11-10 13:31:00,6.8,Mobile,0,4.0,Remote
+A01442,U1249,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-09 14:01:00,3.9,Campus PC,0,4.0,On-Campus
+A01443,U1233,Faculty,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-15 17:29:00,30.5,Campus PC,1,,On-Campus
+A01444,U1122,Postgraduate,Mechanical,R028,Materials Vol.5,Journal,IEEE,2008,2025-03-04 14:44:00,19.4,Laptop,0,4.0,On-Campus
+A01445,U1546,Postgraduate,Management,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-04 19:20:00,14.5,Mobile,0,4.0,On-Campus
+A01446,U1403,Postgraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-02-20 08:22:00,27.0,Laptop,0,5.0,Remote
+A01447,U1305,Undergraduate,Mechanical,R046,Programming Vol.5,E-Book,Wiley,2015,2025-09-28 20:37:00,31.0,Laptop,0,5.0,Remote
+A01448,U1277,Postgraduate,CSE,R046,Programming Vol.5,E-Book,Wiley,2015,2025-10-08 10:35:00,23.2,Laptop,1,5.0,Remote
+A01449,U1466,Researcher,CSE,R053,Data Science Vol.4,E-Book,McGraw Hill,2020,2025-03-27 22:54:00,23.6,Mobile,0,3.0,Remote
+A01450,U1067,Undergraduate,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-04-10 09:14:00,19.2,Mobile,0,1.0,On-Campus
+A01451,U1652,Postgraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-03-10 09:16:00,40.1,Laptop,0,5.0,On-Campus
+A01452,U1395,Undergraduate,Management,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-01-03 20:09:00,17.2,Laptop,0,5.0,Remote
+A01453,U1159,Undergraduate, cse ,R023,Finance Vol.2,Journal,Pearson,2005,2025-08-12 20:39:00,12.2,Laptop,0,2.0,On-Campus
+A01454,U1376,Undergraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-09-14 19:32:00,18.7,Laptop,0,4.0,On-Campus
+A01455,U1596,Faculty,ece,R064,Programming Vol.5,E-Book,NPTEL,2010,2025-09-19 22:20:00,29.6,Mobile,0,4.0,On-Campus
+A01456,U1121,Undergraduate,Sciences,R048,Materials Vol.5,Journal,Springer,2017,2025-05-05 11:41:00,41.6,Laptop,0,3.0,Remote
+A01457,U1366,Undergraduate,CSE,R020,AI Vol.1,Journal,Springer,2007,2025-08-06 20:22:00,75.4,Campus PC,0,5.0,On-Campus
+A01458,U1418,Postgraduate,Management,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-02-13 13:11:00,27.1,Laptop,1,5.0,Remote
+A01459,U1567,Undergraduate,Management,R077,Chemistry Vol.1,Journal,McGraw Hill,2007,2025-03-02 16:32:00,63.9,Laptop,0,5.0,On-Campus
+A01460,U1397,Postgraduate,CSE,R067,Data Science Vol.2,E-Book,,2021,2025-11-05 14:26:00,16.1,Laptop,0,3.0,On-Campus
+A01461,U1515,Researcher,CSE,R073,Thermodynamics Vol.1,E-Book,Pearson,2024,2025-10-18 00:24:00,14.1,Campus PC,0,4.0,On-Campus
+A01462,U1541,Undergraduate,Sciences,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-11-27 16:26:00,34.0,Laptop,1,5.0,On-Campus
+A01463,U1623,Undergraduate,Sciences,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-11-17 19:54:00,37.3,Laptop,0,4.0,On-Campus
+A01464,U1253,Researcher,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-09-05 10:12:00,29.0,Campus PC,1,4.0,Remote
+A01465,U1492,Undergraduate,CSE,R042,Finance Vol.1,Journal,Springer,2015,2025-11-28 21:16:00,116.4,Mobile,1,4.0,On-Campus
+A01466,U1174,Undergraduate,Mechanical,R079,Project Report Vol.5,Thesis,Wiley,2014,2025-05-15 16:33:00,16.8,Laptop,1,1.0,On-Campus
+A01467,U1591,Researcher,CSE,R013,Marketing Vol.3,E-Book,IEEE,2009,2025-01-21 10:02:00,56.5,Laptop,1,4.0,On-Campus
+A01468,U1665,Faculty,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-01-06 17:08:00,14.4,Campus PC,0,5.0,On-Campus
+A01469,U1205,Postgraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-02-17 10:33:00,39.2,Laptop,1,1.0,Remote
+A01470,U1392,Postgraduate,CSE,R028,Materials Vol.5,Journal,IEEE,2008,2025-02-03 07:30:00,26.4,Mobile,1,3.0,On-Campus
+A01471,U1575,Faculty,Sciences,R068,PhD Thesis Vol.3,Thesis,Wiley,2008,2025-04-18 18:39:00,30.3,Campus PC,0,4.0,Remote
+A01472,U1018,Postgraduate,Management,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-09-06 08:06:00,999.0,Laptop,0,4.0,On-Campus
+A00014,U1656,Undergraduate,CSE,R023,Finance Vol.2,Journal,Pearson,2005,2025-10-10 11:57:00,34.8,Mobile,0,2.0,On-Campus
+A01474,U1574,FACULTY,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-08-02 19:29:00,23.5,Mobile,0,1.0,Remote
+A01475,U1609,Postgraduate,CSE,R034,PhD Thesis Vol.5,Thesis,Wiley,2019,2025-03-19 06:09:00,5.5,Mobile,1,5.0,On-Campus
+A01476,U1137,Undergraduate,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-10-04 20:18:00,45.8,Laptop,0,3.0,Remote
+A01477,U1530,Undergraduate,Management,R035,Marketing Vol.5,E-Book,IEEE,2021,2025-04-20 20:13:00,9.4,Laptop,1,4.0,On-Campus
+A01478,U1550,Undergraduate,Management,R056,Signal Processing Vol.5,Journal,Wiley,2021,2025-01-14 09:27:00,19.6,Campus PC,0,4.0,On-Campus
+A01479,U1001,Undergraduate,ECE,R063,Chemistry Vol.1,Journal,McGraw Hill,2020,2025-04-28 15:28:00,31.8,Mobile,1,4.0,Remote
+A01480,U1493,Undergraduate,Mechanical,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-04-19 08:26:00,10.9,Laptop,0,4.0,On-Campus
+A01481,U1438,Undergraduate,Sciences,R002,ScienceDirect Vol.1,Database,Pearson,2025,2025-04-11 17:27:00,23.5,Mobile,1,4.0,Remote
+A01482,U1678,Faculty,CSE,R022,Scopus Vol.4,Database,Pearson,2016,2025-10-03 07:54:00,42.6,Laptop,0,4.0,Remote
+A01483,U1030,Undergraduate,Civil,R065,Programming Vol.5,E-Book,NPTEL,2008,2025-10-17 22:57:00,19.2,Mobile,0,4.0,On-Campus
+A01484,U1675,Undergraduate,Management,R052,Signal Processing Vol.1,Journal,McGraw Hill,2019,2025-09-13 10:29:00,23.8,Laptop,0,4.0,On-Campus
+A01485,U1399,Undergraduate,Management,R044,Finance Vol.1,Journal,IEEE,2024,2025-02-02 18:57:00,12.8,Mobile,0,4.0,Remote
+A01486,U1192,Undergraduate,Civil,R006,Programming Vol.3,E-Book,NPTEL,2006,2025-10-17 09:49:00,20.9,Laptop,1,4.0,On-Campus
+A01487,U1271,Postgraduate,Management,R036,JSTOR Vol.3,Database,McGraw Hill,2010,2025-09-06 10:49:00,9.7,Mobile,0,4.0,Remote
+A01488,U1536,Undergraduate,Sciences,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-07 14:13:00,29.4,Laptop,0,4.0,On-Campus
+A01489,U1697,Undergraduate,Management,R003,JSTOR Vol.4,Database,Pearson,2007,2025-09-01 16:26:00,7.9,Mobile,1,3.0,On-Campus
+A01490,U1221,Faculty,CSE,R038,Marketing Vol.2,E-Book,Taylor & Francis,2017,2025-07-11 23:21:00,16.4,Laptop,0,5.0,On-Campus
+A01491,U1688,Undergraduate,ECE,R075,ScienceDirect Vol.5,Database,Pearson,2011,2025-06-07 03:05:00,26.5,Laptop,0,3.0,Remote
+A01492,U1440,Undergraduate,ECE,R005,Materials Vol.5,Journal,Pearson,2014,2025-02-03 00:04:00,22.4,Mobile,0,,Remote
+A01493,U1134,Faculty,Mechanical,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-07-13 13:37:00,32.9,Mobile,0,4.0,Remote
+A01494,U1418,Postgraduate,Mechanical,R024,Chemistry Vol.2,Journal,IEEE,2013,2025-02-07 13:25:00,999.0,Mobile,1,1.0,On-Campus
+A01495,U1561,Postgraduate,ECE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-03-04 21:49:00,5.5,Laptop,0,4.0,On-Campus
+A01496,U1038,Faculty,Management,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-02-14 21:40:00,10.8,Campus PC,0,4.0,On-Campus
+A01497,U1055,Researcher,CSE,R070,SpringerLink Vol.1,Database,IEEE,2015,2025-11-02 21:05:00,25.7,Mobile,0,5.0,On-Campus
+A01498,U1003,Undergraduate,Management,R021,JSTOR Vol.3,Database,Taylor & Francis,2016,2025-04-28 09:50:00,49.8,Laptop,1,5.0,On-Campus
+A01499,U1399,Postgraduate,Civil,R049,Finance Vol.2,Journal,NPTEL,2011,2025-04-14 14:29:00,44.4,Laptop,0,5.0,On-Campus
+A01500,U1040,Postgraduate,Sciences,R067,Data Science Vol.2,E-Book,NPTEL,2021,2025-04-28 19:33:00,114.5,Laptop,1,4.0,On-Campus
