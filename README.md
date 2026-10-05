@@ -4,7 +4,7 @@
 
 This project analyzes access records of a digital library (e-books, journals, databases, videos and theses) for the year 2025 using Python and Pandas. The analysis follows a step-by-step data-analysis workflow covering data loading, extraction, validation, cleaning, aggregation, analysis, visualization, and interpretation.
 
-**Team:** Team 17  
+**Team:** Team 14  
 **Course:** Data Analysis Essentials (DAE)  
 **Dataset:** Digital Library Usage Records (2025)
 
@@ -292,7 +292,7 @@ Stage 1 → Stage 2 → Stage 3 → Stage 4
 
 ## Team Information
 
-**Team Number:** 17
+**Team Number:** 14
 
 | Team Member | Roll Number | Contribution |
 |---|---|---|
